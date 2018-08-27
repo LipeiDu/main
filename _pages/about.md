@@ -12,19 +12,19 @@ To be updated.
 
 About me
 ======
-I'm a member of two collaborations, BEST and JETSCAPE, working on the physics of relativistic heavy-ion collisions, so my research is in the framework of these two collaborations. 
+I'm a member of two collaborations, BEST and JETSCAPE, working on the physics of relativistic heavy-ion collisions. My research is basically based on the frameworks of these two collaborations. 
 
 Collaborations
 ======
 
-BEST Collaboration
-------
-The Beam Energy Scan Theory (BEST) Collaboration is a Topical Collaboration in Nuclear Theory, funded by the US Department of Energy, Office of Science, Office of Nuclear Physics for the period 2016-2020 (https://www.bnl.gov/physics/best/).
+**BEST Collaboration**
+
+The [Beam Energy Scan Theory (BEST) Collaboration](https://www.bnl.gov/physics/best/) is a Topical Collaboration in Nuclear Theory, funded by the US Department of Energy, Office of Science, Office of Nuclear Physics for the period 2016-2020.
 
 
-JETSCAPE Collaboration
-------
-The Jet Energy-loss Tomography with a Statistically and Computationally Advanced Program Envelope (JETSCAPE) collaboration is an NSF funded multi-institutional effort to design the next generation of event generators to simulate the physics of ultra-relativistic heavy-ion collisions. It involves teams of theoretical and experimental physicists, computer scientists, and statisticians from nine institutions. (http://jetscape.wayne.edu/)
+**JETSCAPE Collaboration**
+
+The [Jet Energy-loss Tomography with a Statistically and Computationally Advanced Program Envelope (JETSCAPE) collaboration](http://jetscape.wayne.edu/) is an NSF funded multi-institutional effort to design the next generation of event generators to simulate the physics of ultra-relativistic heavy-ion collisions. It involves teams of theoretical and experimental physicists, computer scientists, and statisticians from nine institutions.
 
 
 Research Interests
