@@ -247,9 +247,9 @@ defaults:
       path: ""
       type: literature
     values:
-      layout: literature
+      layout: single
       author_profile: true
-      share: true
+      share: false
 
 
 # Sass/SCSS
