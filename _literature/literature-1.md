@@ -1,6 +1,6 @@
 ---
 title: "Literature item number 1"
-excerpt: "Short description of literature item number 1<br/>"
+excerpt: "Short description of literature item number 1<br/><img src='/images/500x300.png'>"
 collection: literature
 ---
 
