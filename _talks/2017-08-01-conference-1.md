@@ -8,4 +8,4 @@ date: 2017-08-01
 location: "Columbus, OH"
 ---
 
-01-02 August 2017
+Dates: 01-02 August 2017.
