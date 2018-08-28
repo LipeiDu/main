@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "This personal website is under construction"
+title: "Website under construction!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
