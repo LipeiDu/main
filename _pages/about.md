@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Website under construction!"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,10 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-To be updated.
+This website was published online on August 26, 2018. To be updated.
 
-About me
-======
 I'm a member of two collaborations, [BEST Collaboration](https://www.bnl.gov/physics/best/) and [JETSCAPE Collaboration](http://jetscape.wayne.edu/), working on the physics of relativistic heavy-ion collisions. My research is basically based on the frameworks of these two collaborations. 
 
 Collaborations
