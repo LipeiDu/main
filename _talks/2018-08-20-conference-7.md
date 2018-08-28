@@ -8,4 +8,4 @@ date: 2018-08-20
 location: "Berkeley, CA"
 ---
 
-20 - 21 August 2018
+Dates: 20 - 21 August 2018.  Talk: Hybrid model with dynamical sources for heavy-ion collisions at BES energies
