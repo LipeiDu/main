@@ -8,6 +8,4 @@ date: 2018-04-14
 location: "Trento, Italy"
 ---
 
-28 May-22 June 2018
-
-Talk: Dynamical initialization of Heavy-Ion Collisions at BES Energies
+Dates: 28 May-22 June 2018.  Talk: Dynamical initialization of Heavy-Ion Collisions at BES Energies
