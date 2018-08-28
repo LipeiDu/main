@@ -8,4 +8,4 @@ date: 2018-01-03
 location: "Berkeley, CA"
 ---
 
-03-07 January 2018
+Dates: 03-07 January 2018.
