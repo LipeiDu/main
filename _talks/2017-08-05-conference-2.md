@@ -8,4 +8,4 @@ date: 2017-08-05
 location: "New York City, NY"
 ---
 
-05-06 August 2017
+Dates: 05-06 August 2017.
