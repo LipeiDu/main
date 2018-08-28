@@ -8,4 +8,4 @@ date: 2018-06-26
 location: "Beijing, China"
 ---
 
-26 June 2018
+Dates: 26 June 2018.  Talk: Dynamical Initialization and Baryon Evolution in Hybrid Models of Heavy-Ion Collisions
