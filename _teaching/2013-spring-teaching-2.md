@@ -7,6 +7,3 @@ venue: "School of Physics, Peking University"
 date: 2013-03-01
 location: "Beijing, China"
 ---
-
-Teaching Associate
-
