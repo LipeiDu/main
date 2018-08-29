@@ -7,5 +7,3 @@ venue: "Department of Physics, The Ohio State University"
 date: 2016-09-01
 location: "Columbus, OH"
 ---
-
-Teaching Associate
