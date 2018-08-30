@@ -4,5 +4,5 @@ excerpt: "Studing the structure of the QCD Phase Diagram is one of the most impo
 collection: literature
 ---
 
-QCD Critical Point
-=========
+## QCD Critical Point
+
