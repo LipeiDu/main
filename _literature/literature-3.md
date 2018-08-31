@@ -1,8 +1,7 @@
 ---
 title: "Hydrodynamics with fluctuactions near the critical point"
-excerpt: "Hydrodynamical calculations of the evolution of the Quark-Gluon Plasma have been 
-extremely successful in describing the observables of soft particles. The hydrodynamical evolution 
-near the QCD critical point is very important for searching the point.<br/>"
+excerpt: "The hydrodynamical evolution 
+near the QCD critical point is very important for searching the critical point. To do this, fluctuations will be essential because it can deviate from equilibrium significantly near the critical point.<br/>"
 collection: literature
 ---
 
