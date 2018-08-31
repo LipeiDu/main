@@ -5,7 +5,10 @@ collection: literature
 ---
 
 ## QCD Critical Point
-Hadronic Fluctuations and Correlations, Volker Koch, [arXiv:0810.2520 [nucl-th]](https://arxiv.org/pdf/0810.2520)
+* Proton-Number Fluctuation as a Signal of the QCD Critical End Point,
+Y. Hatta and M. A. Stephanov,
+Phys. Rev. Lett. 91, 102003, [arXiv:hep-ph/0302002 ](http://arxiv.org/pdf/hep-ph/0302002.pdf)
+* Hadronic Fluctuations and Correlations, Volker Koch, [arXiv:0810.2520 [nucl-th]](https://arxiv.org/pdf/0810.2520)
 
 ## Experimental Study
 * An Experimental Exploration of the QCD Phase Diagram: The Search for the Critical Point and the Onset of De-confinement,
