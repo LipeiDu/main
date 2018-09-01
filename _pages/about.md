@@ -29,7 +29,7 @@ The Jet Energy-loss Tomography with a Statistically and Computationally Advanced
 
 Research Interests
 ======
-1. Dynamical initialization of Hybrid Models of heavy-ion collisions
-1. Baryon transportation in heavy-ion collisions
-1. Hydrodynamic description of Quark-Gluon Plasma with fluctuations
-1. Jet-medium interaction
+* Dynamical initialization of Hybrid Models of heavy-ion collisions
+* Baryon transportation in heavy-ion collisions
+* Hydrodynamic description of Quark-Gluon Plasma with fluctuations
+* Jet-medium interaction
