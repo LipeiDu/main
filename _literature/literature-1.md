@@ -4,6 +4,19 @@ excerpt: "Studing the structure of the QCD Phase Diagram is one of the most impo
 collection: literature
 ---
 
+## Critical phenomena
+* Theory of dynamic critical phenomena,
+P. C. Hohenberg and B. I. Halperin,
+[Rev. Mod. Phys. 49, 435](https://journals.aps.org/rmp/pdf/10.1103/RevModPhys.49.435).
+
+## Review artical
+* QCD phase diagram and the critical point,
+M. A. Stephanov. [arXiv:hep-ph/0402115](https://arxiv.org/pdf/hep-ph/0402115)
+* Mapping the QCD Phase Diagram,
+Krishna Rajagopal. [arXiv:hep-ph/9908360](https://arxiv.org/pdf/hep-ph/9908360)
+* QCD critical point: a historical perspective,
+Roberto Casalbuoni. [arXiv:hep-ph/0610179](https://arxiv.org/pdf/hep-ph/0610179)
+
 ## QCD Critical Point
 * Proton-Number Fluctuation as a Signal of the QCD Critical End Point,
 Y. Hatta and M. A. Stephanov,
