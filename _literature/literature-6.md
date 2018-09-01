@@ -20,3 +20,9 @@ Phys. Rev. D 83, 014504. [arXiv:1011.3130 [hep-lat]](https://arxiv.org/pdf/1011.
 * Suppression of Baryon Diffusion and Transport in a Baryon Rich Strongly Coupled Quark-Gluon Plasma,
 Romulo Rougemont, Jorge Noronha, and Jacquelyn Noronha-Hostler,
 Phys. Rev. Lett. 115, 202301. [arXiv:1507.06972 [hep-ph]](https://arxiv.org/pdf/1507.06972)
+* Causal hydrodynamics of gauge theory plasmas from AdS/CFT duality,
+Makoto Natsuume and Takashi Okamura,
+Phys. Rev. D 77, 066014. [arXiv:0712.2916 [hep-th]](https://arxiv.org/pdf/0712.2916)
+* Bulk viscosity of gauge theory plasma at strong coupling,
+Alex Buchel,
+Phys.Lett.B663:286-289,2008. [arXiv:0708.3459 [hep-th]](https://arxiv.org/pdf/0708.3459)
