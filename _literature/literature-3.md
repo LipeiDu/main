@@ -31,4 +31,14 @@ Phys. Rev. C 93, 021902(R). [arXiv:1601.04839 [hep-ph]](https://arxiv.org/pdf/16
 * Diffusive dynamics of critical fluctuations near the QCD critical point,
 Marlene Nahrgang, Marcus Bluhm, Thomas Schaefer, Steffen A. Bass. [arXiv:1804.05728 [nucl-th]](https://arxiv.org/pdf/1804.05728)
 
+## Stochastic hydrodynamics
+* Relativistic theory of hydrodynamic fluctuations with applications to heavy-ion collisions,
+J. I. Kapusta, B. Müller, and M. Stephanov,
+Phys. Rev. C 85, 054906. [arXiv:1112.6405 [nucl-th]](https://arxiv.org/pdf/1112.6405)
+* Thermally fluctuating second-order viscous hydrodynamics and heavy-ion collisions,
+C. Young, J. I. Kapusta, C. Gale, S. Jeon, and B. Schenke,
+Phys. Rev. C 91, 044901. [arXiv:1407.1077 [nucl-th]](https://arxiv.org/pdf/1407.1077)
+* Hydrodynamic Fluctuations in Relativistic Heavy-Ion Collisions,
+Mayank Singh, Chun Shen, Scott McDonald, Sangyong Jeon, Charles Gale. [arXiv:1807.05451 [nucl-th]](https://arxiv.org/pdf/1807.05451)
+
 
