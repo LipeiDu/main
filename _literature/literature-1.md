@@ -19,6 +19,11 @@ Roberto Casalbuoni. [arXiv:hep-ph/0610179](https://arxiv.org/pdf/hep-ph/0610179)
 * The QCD Critical Point and Related Observables,
 Marlene Nahrgang,
 Nucl.Phys. A956 (2016) 83-90. [arXiv:1601.07437 [nucl-th]](http://arxiv.org/pdf/1601.07437.pdf)
+* Exploring the Properties of the Phases of QCD Matter,
+U. Heinz, P. Sorensen, A. Deshpande, C. Gagliardi, and F. Karsch et al.[arXiv:1501.06477](https://arxiv.org/pdf/1501.06477.pdf)
+* The phase diagram of dense QCD,
+Kenji Fukushima and Tetsuo Hatsuda,
+Rep. Prog. Phys. 74 (2011) 014001. [arXiv:1005.4814 [hep-ph]](https://arxiv.org/pdf/1005.4814)
 
 ## Universality class
 * Dynamic universality class of the QCD critical point,
