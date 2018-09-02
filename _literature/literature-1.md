@@ -31,7 +31,7 @@ Phys.Rev.Lett. 117 (2016) no.22, 222301. [arXiv:1605.09341 [hep-ph]](http://arxi
 ## QCD Critical Point
 * Signatures of the tricritical point in QCD,
 M. Stephanov, K. Rajagopal, and E. Shuryak,
-Phys.Rev.Lett. 81 (1998) 4816-4819. [hep-ph/9806219](http://arxiv.org/pdf/hep-ph/9806219.pdf)
+Phys.Rev.Lett. 81 (1998) 4816-4819. [arXiv:hep-ph/9806219](http://arxiv.org/pdf/hep-ph/9806219.pdf)
 * Proton-Number Fluctuation as a Signal of the QCD Critical End Point,
 Y. Hatta and M. A. Stephanov,
 Phys. Rev. Lett. 91, 102003. [arXiv:hep-ph/0302002 ](http://arxiv.org/pdf/hep-ph/0302002.pdf)
@@ -46,17 +46,26 @@ Masayuki Asakawa, Shinji Ejiri, and Masakiyo Kitazawa,
 Phys.Rev.Lett. 103 (2009) 262301. [arXiv:0904.2089 [nucl-th]](http://arxiv.org/pdf/0904.2089.pdf)
 * On the sign of kurtosis near the QCD critical point,
 M.A. Stephanov,
-Phys.Rev.Lett. 107 (2011) 052301. [rXiv:1104.1627 [hep-ph]](http://arxiv.org/pdf/1104.1627.pdf)
-* Indications for a Critical End Point in the Phase Diagram for Hot and Dense Nuclear Matter,
-Roy A. Lacey,
-Phys.Rev.Lett. 114 (2015) no.14, 142301. [arXiv:1411.7931 [nucl-ex]](http://arxiv.org/pdf/1411.7931.pdf)
+Phys.Rev.Lett. 107 (2011) 052301. [arXiv:1104.1627 [hep-ph]](http://arxiv.org/pdf/1104.1627.pdf)
 * Searching for the QCD critical point via the rapidity dependence of cumulants,
 Jasmine Brewer, Swagato Mukherjee, Krishna Rajagopal, Yi Yin.
 [arXiv:1804.10215 [hep-ph]](http://arxiv.org/pdf/1804.10215.pdf)
 * Hadronic Fluctuations and Correlations, Volker Koch. [arXiv:0810.2520 [nucl-th]](https://arxiv.org/pdf/0810.2520)
+* Event-by-event fluctuations in heavy ion collisions and the QCD critical point,
+M. Stephanov, K. Rajagopal, and E. Shuryak,
+Phys.Rev. D60 (1999) 114028. [arXiv:hep-ph/9903292](http://arxiv.org/pdf/hep-ph/9903292.pdf)
+* Real-time evolution of non-Gaussian cumulants in the QCD critical regime,
+Swagato Mukherjee, Raju Venugopalan, and Yi Yin,
+Phys.Rev. C92 (2015) no.3, 034912. [arXiv:1506.00645 [hep-ph]](http://arxiv.org/pdf/1506.00645.pdf)
+* Acceptance dependence of fluctuation measures near the QCD critical point,
+Bo Ling and Mikhail A. Stephanov,
+Phys. Rev. C 93, 034915 (2016). [arXiv:1512.09125 [nucl-th]](https://arxiv.org/pdf/1512.09125)
 
 ## Experimental Study
 * An Experimental Exploration of the QCD Phase Diagram: The Search for the Critical Point and the Onset of De-confinement,
 STAR Collaboration. [arXiv:1007.2613 [nucl-ex]](https://arxiv.org/pdf/1007.2613.pdf)
 * Experimental Study of the QCD Phase Diagram and Search for the Critical Point: Selected Arguments for the Run‐10 Beam Energy Scan at RHIC, The STAR Collaboration, [Link](https://drupal.star.bnl.gov/STAR/files/BES-Short-v8.3_0.pdf)
 * Studying the phase diagram of QCD matter at RHIC, [STAR Collaboration report 2014](https://drupal.star.bnl.gov/STAR/starnotes/public/sn0598)
+* Indications for a Critical End Point in the Phase Diagram for Hot and Dense Nuclear Matter,
+Roy A. Lacey,
+Phys.Rev.Lett. 114 (2015) no.14, 142301. [arXiv:1411.7931 [nucl-ex]](http://arxiv.org/pdf/1411.7931.pdf)
