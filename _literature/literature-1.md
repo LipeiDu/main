@@ -29,9 +29,19 @@ Swagato Mukherjee, Raju Venugopalan, Yi Yin,
 Phys.Rev.Lett. 117 (2016) no.22, 222301. [arXiv:1605.09341 [hep-ph]](http://arxiv.org/pdf/1605.09341.pdf)
 
 ## QCD Critical Point
+* Signatures of the tricritical point in QCD,
+M. Stephanov, K. Rajagopal, and E. Shuryak,
+Phys.Rev.Lett. 81 (1998) 4816-4819. [hep-ph/9806219](http://arxiv.org/pdf/hep-ph/9806219.pdf)
 * Proton-Number Fluctuation as a Signal of the QCD Critical End Point,
 Y. Hatta and M. A. Stephanov,
 Phys. Rev. Lett. 91, 102003. [arXiv:hep-ph/0302002 ](http://arxiv.org/pdf/hep-ph/0302002.pdf)
+* Transverse Velocity Dependence of the Proton-Antiproton Ratio as a Signature of the QCD Critical Point,
+M. Asakawa, S. A. Bass, B. Müller, and C. Nonaka,
+Phys.Rev.Lett. 101 (2008) 122302. [arXiv:0803.2449 [nucl-th]](http://arxiv.org/pdf/0803.2449.pdf)
+* Non-Gaussian fluctuations near the QCD critical point,
+M.A. Stephanov,
+Phys.Rev.Lett. 102 (2009) 032301. [arXiv:0809.3450 [hep-ph]](http://arxiv.org/pdf/0809.3450.pdf)
+
 * Hadronic Fluctuations and Correlations, Volker Koch. [arXiv:0810.2520 [nucl-th]](https://arxiv.org/pdf/0810.2520)
 
 ## Experimental Study
