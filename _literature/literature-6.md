@@ -18,6 +18,9 @@ Phys. Rev. D 83, 014504. [arXiv:1011.3130 [hep-lat]](https://arxiv.org/pdf/1011.
 * Freeze-Out Conditions in Heavy Ion Collisions from QCD Thermodynamics,
 A. Bazavov, H.-T. Ding, P. Hegde, O. Kaczmarek, F. Karsch, E. Laermann, Swagato Mukherjee, P. Petreczky, C. Schmidt, D. Smith, W. Soeldner, and M. Wagner,
 Phys. Rev. Lett. 109, 192302 (2012). [arXiv:1208.1220 [hep-lat]](https://arxiv.org/pdf/1208.1220)
+* Is There a Flavor Hierarchy in the Deconfinement Transition of QCD?
+Rene Bellwied, Szabolcs Borsanyi, Zoltan Fodor, Sándor D. Katz, and Claudia Ratti,
+Phys. Rev. Lett. 111, 202302 (2013). [arXiv:1305.6297 [hep-lat]](https://arxiv.org/pdf/1305.6297)
 * Additional Strange Hadrons from QCD Thermodynamics and Strangeness Freezeout in Heavy Ion Collisions,
 A. Bazavov, H.-T. Ding, P. Hegde, O. Kaczmarek, F. Karsch, E. Laermann, Y. Maezawa, Swagato Mukherjee, H. Ohno, P. Petreczky, C. Schmidt, S. Sharma, W. Soeldner, and M. Wagner,
 Phys. Rev. Lett. 113, 072001 (2014). [arXiv:1404.6511 [hep-lat]](https://arxiv.org/pdf/1404.6511)
