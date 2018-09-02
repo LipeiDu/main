@@ -70,3 +70,6 @@ Phys. Rev. Lett. 96, 252301 (2016). [arXiv:hep-ph/0603092](http://arxiv.org/pdf/
 * Violation of the Holographic Viscosity Bound in a Strongly Coupled Anisotropic Plasma,
 Anton Rebhan and Dominik Steineder,
 Phys. Rev. Lett. 108, 021601 (2012). [arXiv:1110.6825 [hep-th]](https://arxiv.org/pdf/1110.6825)
+* Second-Order Hydrodynamics in Next-to-Leading-Order QCD,
+Jacopo Ghiglieri, Guy D. Moore, and Derek Teaney,
+Phys. Rev. Lett. 121, 052302 (2018). [arXiv:1805.02663 [hep-ph]](https://arxiv.org/pdf/1805.02663)
