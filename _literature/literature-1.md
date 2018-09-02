@@ -16,6 +16,9 @@ M. A. Stephanov. [arXiv:hep-ph/0402115](https://arxiv.org/pdf/hep-ph/0402115)
 Krishna Rajagopal. [arXiv:hep-ph/9908360](https://arxiv.org/pdf/hep-ph/9908360)
 * QCD critical point: a historical perspective,
 Roberto Casalbuoni. [arXiv:hep-ph/0610179](https://arxiv.org/pdf/hep-ph/0610179)
+* The QCD Critical Point and Related Observables,
+Marlene Nahrgang,
+Nucl.Phys. A956 (2016) 83-90. [arXiv:1601.07437 [nucl-th]](http://arxiv.org/pdf/1601.07437.pdf)
 
 ## Universality class
 * Dynamic universality class of the QCD critical point,
@@ -60,6 +63,12 @@ Phys.Rev. C92 (2015) no.3, 034912. [arXiv:1506.00645 [hep-ph]](http://arxiv.org/
 * Acceptance dependence of fluctuation measures near the QCD critical point,
 Bo Ling and Mikhail A. Stephanov,
 Phys. Rev. C 93, 034915 (2016). [arXiv:1512.09125 [nucl-th]](https://arxiv.org/pdf/1512.09125)
+* Remembrance of things past: non-equilibrium effects and the evolution of critical fluctuations near the QCD critical point,
+Swagato Mukherjee, Raju Venugopalan, Yi Yin,
+Nucl.Phys. A956 (2016) 830-833. [arXiv:1512.08022 [nucl-th]](http://arxiv.org/pdf/1512.08022.pdf)
+* Universality regained: Kibble-Zurek dynamics, off-equilibrium scaling and the search for the QCD critical point,
+Swagato Mukherjee, Raju Venugopalan, Yi Yin,
+Nucl.Phys. A967 (2017) 820-823. [arXiv:1704.05427 [hep-ph]](http://arxiv.org/pdf/1704.05427.pdf)
 
 ## Experimental Study
 * An Experimental Exploration of the QCD Phase Diagram: The Search for the Critical Point and the Onset of De-confinement,
