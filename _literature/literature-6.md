@@ -25,7 +25,7 @@ Phys. Rev. Lett. 113, 072001 (2014). [arXiv:1404.6511 [hep-lat]](https://arxiv.o
 S. Borsanyi, Z. Fodor, S. D. Katz, S. Krieg, C. Ratti, and K. K. Szabo,
 Phys. Rev. Lett. 113, 052301 (2014). [arXiv:1403.4576 [hep-lat]](https://arxiv.org/pdf/1403.4576)
 
-## Cooper-Frye Surface
+## Cooper-Frye sampling
 
 * Different Realizations of Cooper-Frye Sampling with Conservation Laws,
 C. Schwarz, D. Oliinychenko, L.-G. Pang, S. Ryu, H. Petersen,
