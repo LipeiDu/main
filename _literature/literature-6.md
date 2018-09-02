@@ -30,6 +30,9 @@ Phys. Rev. Lett. 113, 052301 (2014). [arXiv:1403.4576 [hep-lat]](https://arxiv.o
 * Net-proton probability distribution in heavy ion collisions,
 P. Braun-Munzinger, B. Friman, F. Karsch, K. Redlich, V. Skokov,
 Phys.Rev. C84 (2011) 064911. [arXiv:1107.4267 [hep-ph]](http://arxiv.org/pdf/1107.4267.pdf)
+* Baryon number conservation and the cumulants of the net proton distribution,
+A. Bzdak, V. Koch, and V. Skokov,
+Phys. Rev. C 87, 014901 (2013). [arXiv:1203.4529 [hep-ph]](https://arxiv.org/pdf/1203.4529)
 * Beam energy dependence of moments of the net-charge multiplicity distributions in Au+Au collisions at RHIC,
 STAR Collaboration,
 Phys. Rev. Lett. 113, 092301 (2014). [arXiv:1402.1558 [nucl-ex]](https://arxiv.org/pdf/1402.1558)
