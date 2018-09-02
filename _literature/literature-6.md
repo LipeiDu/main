@@ -64,3 +64,9 @@ Phys.Lett.B663:286-289,2008. [arXiv:0708.3459 [hep-th]](https://arxiv.org/pdf/07
 * Diffusion of Conserved Charges in Relativistic Heavy Ion Collisions，
 Moritz Greif, Jan. A. Fotakis, Gabriel S. Denicol, and Carsten Greiner，
 Phys.Rev.Lett. 120 (2018) no.24, 242301. [arXiv:1711.08680 [hep-ph]](http://arxiv.org/pdf/1711.08680.pdf)
+* Anomalous Viscosity of an Expanding Quark-Gluon Plasma,
+M. Asakawa, S. A. Bass, and B. Müller,
+Phys. Rev. Lett. 96, 252301 (2016). [arXiv:hep-ph/0603092](http://arxiv.org/pdf/hep-ph/0603092.pdf)
+* Violation of the Holographic Viscosity Bound in a Strongly Coupled Anisotropic Plasma,
+Anton Rebhan and Dominik Steineder,
+Phys. Rev. Lett. 108, 021601 (2012). [arXiv:1110.6825 [hep-th]](https://arxiv.org/pdf/1110.6825)
