@@ -25,6 +25,18 @@ Phys. Rev. Lett. 113, 072001 (2014). [arXiv:1404.6511 [hep-lat]](https://arxiv.o
 S. Borsanyi, Z. Fodor, S. D. Katz, S. Krieg, C. Ratti, and K. K. Szabo,
 Phys. Rev. Lett. 113, 052301 (2014). [arXiv:1403.4576 [hep-lat]](https://arxiv.org/pdf/1403.4576)
 
+## Net proton/electric charge distribution
+
+* Net-proton probability distribution in heavy ion collisions,
+P. Braun-Munzinger, B. Friman, F. Karsch, K. Redlich, V. Skokov,
+Phys.Rev. C84 (2011) 064911. [arXiv:1107.4267 [hep-ph]](http://arxiv.org/pdf/1107.4267.pdf)
+* Beam energy dependence of moments of the net-charge multiplicity distributions in Au+Au collisions at RHIC,
+STAR Collaboration,
+Phys. Rev. Lett. 113, 092301 (2014). [arXiv:1402.1558 [nucl-ex]](https://arxiv.org/pdf/1402.1558)
+* Higher Moments of Net Proton Multiplicity Distributions at RHIC,
+M. M. Aggarwal et al. (STAR Collaboration),
+Phys.Rev.Lett.105:022302,2010. [arXiv:1004.4959 [nucl-ex]](https://arxiv.org/pdf/1004.4959)
+
 ## Cooper-Frye sampling
 
 * Different Realizations of Cooper-Frye Sampling with Conservation Laws,
