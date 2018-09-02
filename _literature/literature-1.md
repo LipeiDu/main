@@ -41,7 +41,18 @@ Phys.Rev.Lett. 101 (2008) 122302. [arXiv:0803.2449 [nucl-th]](http://arxiv.org/p
 * Non-Gaussian fluctuations near the QCD critical point,
 M.A. Stephanov,
 Phys.Rev.Lett. 102 (2009) 032301. [arXiv:0809.3450 [hep-ph]](http://arxiv.org/pdf/0809.3450.pdf)
-
+* Third Moments of Conserved Charges as Probes of QCD Phase Structure,
+Masayuki Asakawa, Shinji Ejiri, and Masakiyo Kitazawa,
+Phys.Rev.Lett. 103 (2009) 262301. [arXiv:0904.2089 [nucl-th]](http://arxiv.org/pdf/0904.2089.pdf)
+* On the sign of kurtosis near the QCD critical point,
+M.A. Stephanov,
+Phys.Rev.Lett. 107 (2011) 052301. [rXiv:1104.1627 [hep-ph]](http://arxiv.org/pdf/1104.1627.pdf)
+* Indications for a Critical End Point in the Phase Diagram for Hot and Dense Nuclear Matter,
+Roy A. Lacey,
+Phys.Rev.Lett. 114 (2015) no.14, 142301. [arXiv:1411.7931 [nucl-ex]](http://arxiv.org/pdf/1411.7931.pdf)
+* Searching for the QCD critical point via the rapidity dependence of cumulants,
+Jasmine Brewer, Swagato Mukherjee, Krishna Rajagopal, Yi Yin.
+[arXiv:1804.10215 [hep-ph]](http://arxiv.org/pdf/1804.10215.pdf)
 * Hadronic Fluctuations and Correlations, Volker Koch. [arXiv:0810.2520 [nucl-th]](https://arxiv.org/pdf/0810.2520)
 
 ## Experimental Study
