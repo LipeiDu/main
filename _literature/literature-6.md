@@ -73,3 +73,6 @@ Phys. Rev. Lett. 108, 021601 (2012). [arXiv:1110.6825 [hep-th]](https://arxiv.or
 * Second-Order Hydrodynamics in Next-to-Leading-Order QCD,
 Jacopo Ghiglieri, Guy D. Moore, and Derek Teaney,
 Phys. Rev. Lett. 121, 052302 (2018). [arXiv:1805.02663 [hep-ph]](https://arxiv.org/pdf/1805.02663)
+* Importance of the Bulk Viscosity of QCD in Ultrarelativistic Heavy-Ion Collisions,
+S. Ryu, J.-F. Paquet, C. Shen, G. S. Denicol, B. Schenke, S. Jeon, and C. Gale,
+Phys. Rev. Lett. 115, 132301 (2015). [arXiv:1502.01675 [nucl-th]](https://arxiv.org/pdf/1502.01675)
