@@ -42,6 +42,9 @@ Phys. Rev. Lett. 113, 092301 (2014). [arXiv:1402.1558 [nucl-ex]](https://arxiv.o
 * Higher Moments of Net Proton Multiplicity Distributions at RHIC,
 M. M. Aggarwal et al. (STAR Collaboration),
 Phys.Rev.Lett.105:022302,2010. [arXiv:1004.4959 [nucl-ex]](https://arxiv.org/pdf/1004.4959)
+* Energy Dependence of Moments of Net-Proton Multiplicity Distributions at RHIC，
+L. Adamczyk et al. (STAR Collaboration)，
+Phys. Rev. Lett. 112, 032302 (2014). [arXiv:1309.5681 [nucl-ex]](https://arxiv.org/pdf/1309.5681)
 
 ## Cooper-Frye sampling
 
