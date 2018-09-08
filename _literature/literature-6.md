@@ -54,6 +54,9 @@ Phys. Rev. Lett. 112, 032302 (2014). [arXiv:1309.5681 [nucl-ex]](https://arxiv.o
 * Different Realizations of Cooper-Frye Sampling with Conservation Laws,
 C. Schwarz, D. Oliinychenko, L.-G. Pang, S. Ryu, H. Petersen,
 2018 J. Phys. G: Nucl. Part. Phys. 45 015001. [arXiv:1707.07026 [hep-ph]](https://arxiv.org/pdf/1707.07026)
+* Effect of finite particle number sampling on baryon number fluctuations,
+Jan Steinheimer and Volker Koch,
+Phys. Rev. C 96, 034907 (2017). [arXiv:1705.08538 [nucl-th]](https://arxiv.org/pdf/1705.08538)
 
 
 ## Transport coefficients
