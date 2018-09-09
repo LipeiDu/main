@@ -9,6 +9,9 @@ collection: literature
 * Hydrodynamics of fluids near a critical point,
 Moshe Gitterman,
 Rev. Mod. Phys. 50, 85. 
+* Hydrodynamics near a chiral critical point,
+K. Paech, H. Stöcker, and A. Dumitru,
+Phys. Rev. C 68, 044907 (2003). [arXiv:nucl-th/0302013](https://arxiv.org/pdf/nucl-th/0302013)
 * Hydrodynamics with parametric slowing down and fluctuations near the critical point,
 M. Stephanov and Y. Yin,
 Phys. Rev. D 98, 036006. [arXiv:1712.10305 [nucl-th]](https://arxiv.org/pdf/1712.10305)
@@ -35,6 +38,9 @@ Marlene Nahrgang, Marcus Bluhm, Thomas Schaefer, Steffen A. Bass. [arXiv:1804.05
 * Relativistic theory of hydrodynamic fluctuations with applications to heavy-ion collisions,
 J. I. Kapusta, B. Müller, and M. Stephanov,
 Phys. Rev. C 85, 054906. [arXiv:1112.6405 [nucl-th]](https://arxiv.org/pdf/1112.6405)
+* Thermal conductivity and chiral critical point in heavy ion collisions,
+Joseph I. Kapusta and Juan M. Torres-Rincon,
+Phys. Rev. C 86, 054911 (2012). [arXiv:1209.0675 [nucl-th]](https://arxiv.org/pdf/1209.0675)
 * Thermally fluctuating second-order viscous hydrodynamics and heavy-ion collisions,
 C. Young, J. I. Kapusta, C. Gale, S. Jeon, and B. Schenke,
 Phys. Rev. C 91, 044901. [arXiv:1407.1077 [nucl-th]](https://arxiv.org/pdf/1407.1077)
