@@ -96,3 +96,8 @@ Phys. Rev. Lett. 121, 052302 (2018). [arXiv:1805.02663 [hep-ph]](https://arxiv.o
 * Importance of the Bulk Viscosity of QCD in Ultrarelativistic Heavy-Ion Collisions,
 S. Ryu, J.-F. Paquet, C. Shen, G. S. Denicol, B. Schenke, S. Jeon, and C. Gale,
 Phys. Rev. Lett. 115, 132301 (2015). [arXiv:1502.01675 [nucl-th]](https://arxiv.org/pdf/1502.01675)
+* Measuring Shear Viscosity Using Transverse Momentum Correlations in Relativistic Nuclear Collisions,
+Sean Gavin and Mohamed Abdel-Aziz,
+Phys. Rev. Lett. 97, 162302 (2006). [arXiv:nucl-th/0606061](https://arxiv.org/pdf/nucl-th/0606061)
+
+
