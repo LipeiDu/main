@@ -9,7 +9,7 @@ collection: literature
 P. C. Hohenberg and B. I. Halperin,
 [Rev. Mod. Phys. 49, 435](https://journals.aps.org/rmp/pdf/10.1103/RevModPhys.49.435).
 
-## Review artical
+## Review article
 * QCD phase diagram and the critical point,
 M. A. Stephanov. [arXiv:hep-ph/0402115](https://arxiv.org/pdf/hep-ph/0402115)
 * Mapping the QCD Phase Diagram,
