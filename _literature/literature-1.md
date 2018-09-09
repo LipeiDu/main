@@ -86,7 +86,7 @@ Nucl.Phys. A967 (2017) 820-823. [arXiv:1704.05427 [hep-ph]](http://arxiv.org/pdf
 ## Experimental Study
 * An Experimental Exploration of the QCD Phase Diagram: The Search for the Critical Point and the Onset of De-confinement,
 STAR Collaboration. [arXiv:1007.2613 [nucl-ex]](https://arxiv.org/pdf/1007.2613.pdf)
-* Experimental Study of the QCD Phase Diagram and Search for the Critical Point: Selected Arguments for the Run‐10 Beam Energy Scan at RHIC, The STAR Collaboration, [Link](https://drupal.star.bnl.gov/STAR/files/BES-Short-v8.3_0.pdf)
+* Experimental Study of the QCD Phase Diagram and Search for the Critical Point: Selected Arguments for the Run‐10 Beam Energy Scan at RHIC, [The STAR Collaboration](https://drupal.star.bnl.gov/STAR/files/BES-Short-v8.3_0.pdf)
 * Studying the phase diagram of QCD matter at RHIC, [STAR Collaboration report 2014](https://drupal.star.bnl.gov/STAR/starnotes/public/sn0598)
 * Indications for a Critical End Point in the Phase Diagram for Hot and Dense Nuclear Matter,
 Roy A. Lacey,
