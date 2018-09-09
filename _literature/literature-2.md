@@ -14,6 +14,9 @@ Ulrich W Heinz, Raimond Snellings, Ann.Rev.Nucl.Part.Sci. 63 (2013) 123-151. [ar
 Peter F. Kolb, Ulrich W. Heinz, In *Hwa, R.C. (ed.) et al. Quark gluon plasma* 634-714. [arXiv:nucl-th/0305084](https://arxiv.org/pdf/nucl-th/0305084)
 
 ## Anisotropic hydrodynamics
+* Relativistic anisotropic hydrodynamics,
+Mubarak Alqahtani, Mohammad Nopoush, Michael Strickland,
+Progress in Particle and Nuclear Physics, Volume 101, 204-248 (2018). [arXiv:1712.03282 [nucl-th]](https://arxiv.org/pdf/1712.03282)
 * (3+1)-dimensional anisotropic fluid dynamics with a lattice QCD equation of state,
 M. McNelis, D. Bazow, and U. Heinz,
 Phys. Rev. C 97, 054912. [arXiv:1803.01810 [nucl-th]](http://arxiv.org/pdf/1803.01810.pdf)
