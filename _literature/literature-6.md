@@ -6,6 +6,9 @@ collection: literature
 
 ## Parton-hadron phase transition, freeze-out surface
 
+* The order of the quantum chromodynamics transition predicted by the standard model of particle physics,
+Y. Aoki, G. Endrodi, Z. Fodor, S.D. Katz, K.K. Szabo,
+Nature 443:675-678 (2006). [arXiv:hep-lat/0611014](https://arxiv.org/pdf/hep-lat/0611014)
 * Hadron Formation in Relativistic Nuclear Collisions and the QCD Phase Diagram,
 Francesco Becattini, Marcus Bleicher, Thorsten Kollegger, Tim Schuster, Jan Steinheimer, and Reinhard Stock,
 Phys. Rev. Lett. 111, 082302. [arXiv:1212.2431 [nucl-th]](https://arxiv.org/pdf/1212.2431v2.pdf)
