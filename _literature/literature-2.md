@@ -20,7 +20,7 @@ Phys. Rev. C 97, 054912. [arXiv:1803.01810 [nucl-th]](http://arxiv.org/pdf/1803.
 
 ## Hydrodynamic codes
 * **iEBE-VISHNU** The iEBE-VISHNU code package for relativistic heavy-ion collisions,
-ChunShen, ZhiQiu, HuichaoSong, Jonah Bernhard, Steffen Bass, Ulrich Heinz,
+Chun Shen, Zhi Qiu, Huichao Song, Jonah Bernhard, Steffen Bass, Ulrich Heinz,
 Computer Physics Communications 199 (2016) 61–85. [arXiv:1409.8164 [nucl-th]](https://arxiv.org/pdf/1409.8164)
 * **GPU-VH** Massively parallel simulations of relativistic fluid dynamics on graphics processing units with CUDA,
 Dennis Bazow, Ulrich W. Heinz, Michael Strickland, Comp. Phys. Comm. 225 (2018) 92-113. [arXiv:1608.06577 [physics.comp-ph]](https://arxiv.org/pdf/1608.06577)
