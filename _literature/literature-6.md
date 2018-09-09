@@ -99,5 +99,11 @@ Phys. Rev. Lett. 115, 132301 (2015). [arXiv:1502.01675 [nucl-th]](https://arxiv.
 * Measuring Shear Viscosity Using Transverse Momentum Correlations in Relativistic Nuclear Collisions,
 Sean Gavin and Mohamed Abdel-Aziz,
 Phys. Rev. Lett. 97, 162302 (2006). [arXiv:nucl-th/0606061](https://arxiv.org/pdf/nucl-th/0606061)
+* Viscosity Information from Relativistic Nuclear Collisions: How Perfect is the Fluid Observed at RHIC?
+Paul Romatschke and Ulrike Romatschke,
+Phys. Rev. Lett. 99, 172301 (2007). [arXiv:0706.1522 [nucl-th]](https://arxiv.org/pdf/0706.1522)
+* Transport coefficients of bulk viscous pressure in the 14-moment approximation,
+G. S. Denicol, S. Jeon, and C. Gale,
+Phys. Rev. C 90, 024912 (2014). [arXiv:1403.0962 [nucl-th]](https://arxiv.org/pdf/1403.0962)
 
 
