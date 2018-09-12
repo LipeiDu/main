@@ -59,6 +59,9 @@ Phys.Rev.Lett.105:022302,2010. [arXiv:1004.4959 [nucl-ex]](https://arxiv.org/pdf
 * Energy Dependence of Moments of Net-Proton Multiplicity Distributions at RHIC，
 L. Adamczyk et al. (STAR Collaboration)，
 Phys. Rev. Lett. 112, 032302 (2014). [arXiv:1309.5681 [nucl-ex]](https://arxiv.org/pdf/1309.5681)
+* Measurement of higher cumulants of net-charge multiplicity distributions in Au+Au collisions at √sNN=7.7−200 GeV，
+A. Adare et al. (PHENIX Collaboration)，
+Phys. Rev. C 93, 011901(R)(2016). [arXiv:1506.07834 [nucl-ex]](http://arxiv.org/pdf/1506.07834.pdf)
 
 ## Cooper-Frye sampling
 
