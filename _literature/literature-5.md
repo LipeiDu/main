@@ -50,9 +50,14 @@ Phys.Rev. C75 (2007) 024910. [arXiv:nucl-ex/0610001](http://arxiv.org/pdf/nucl-e
 * Phobos results on charged particle multiplicity and pseudorapidity distributions in Au+Au, Cu+Cu, d+Au, and p+p collisions at ultra-relativistic energies,
 PHOBOS Collaboration (B. Alver (MIT) et al.) ,
 Phys.Rev. C83 (2011) 024913. [arXiv:1011.1940 [nucl-ex]](http://arxiv.org/pdf/1011.1940.pdf)
+
+### Both
 * Energy dependence of pion and kaon production in central Pb + Pb collisions,
 NA49 Collaboration (S.V. Afanasiev et al.) ,
-Phys.Rev. C66 (2002) 054902. [arXiv:nucl-ex/0205002](http://arxiv.org/pdf/nucl-ex/0205002.pdf) HEPData(586383). (8.8/17.6 GeV)
+Phys.Rev. C66 (2002) 054902. [arXiv:nucl-ex/0205002](http://arxiv.org/pdf/nucl-ex/0205002.pdf) HEPData(586383). (### Energies: 8.8/17.6 GeV ###)
+* Inclusive charged hadron elliptic flow in Au + Au collisions at √sNN = 7.7 - 39 GeV,
+STAR Collaboration (L. Adamczyk (AGH-UST, Cracow) et al.),
+Phys.Rev. C86 (2012) 054908. [arXiv:1206.5528 [nucl-ex]](http://arxiv.org/pdf/1206.5528.pdf) (### Energies: 7.7/11.5/19.6/27 GeV ###)
 
 ### Other
 
