@@ -58,6 +58,9 @@ Phys.Rev. C66 (2002) 054902. [arXiv:nucl-ex/0205002](http://arxiv.org/pdf/nucl-e
 * Inclusive charged hadron elliptic flow in Au + Au collisions at √sNN = 7.7 - 39 GeV,
 STAR Collaboration (L. Adamczyk (AGH-UST, Cracow) et al.),
 Phys.Rev. C86 (2012) 054908. [arXiv:1206.5528 [nucl-ex]](http://arxiv.org/pdf/1206.5528.pdf) (**Energies: 7.7/11.5/19.6/27 GeV**)
+* Azimuthal anisotropy in Au+Au collisions at s(NN)(1/2) = 200 GeV,
+STAR Collaboration (J. Adams (Birmingham U.) et al.),
+Phys.Rev. C72 (2005) 014904. [arXiv:nucl-ex/0409033](http://arxiv.org/pdf/nucl-ex/0409033.pdf) (**Energies: 200 GeV**)
 
 ### Other
 
