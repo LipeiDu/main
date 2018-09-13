@@ -63,11 +63,14 @@ Phys. Rev. Lett. 112, 032302 (2014). [arXiv:1309.5681 [nucl-ex]](https://arxiv.o
 A. Adare et al. (PHENIX Collaboration)，
 Phys. Rev. C 93, 011901(R)(2016). [arXiv:1506.07834 [nucl-ex]](http://arxiv.org/pdf/1506.07834.pdf)
 
-## Cooper-Frye sampling
+## Cooper-Frye surface
 
 * Comment on the Single Particle Distribution in the Hydrodynamic and Statistical Thermodynamic Models of Multiparticle Production,
 Fred Cooper, Graham Frye,
 Phys.Rev. D10 (1974) 186. [10.1103/PhysRevD.10.186](https://doi.org/10.1103/PhysRevD.10.186)
+* Particlization in hybrid models,
+Pasi Huovinen, Hannah Petersen,
+Eur.Phys.J. A48 (2012) 171. [arXiv:1206.3371 [nucl-th]](http://arxiv.org/pdf/1206.3371.pdf)
 * Different Realizations of Cooper-Frye Sampling with Conservation Laws,
 C. Schwarz, D. Oliinychenko, L.-G. Pang, S. Ryu, H. Petersen,
 2018 J. Phys. G: Nucl. Part. Phys. 45 015001. [arXiv:1707.07026 [hep-ph]](https://arxiv.org/pdf/1707.07026)
