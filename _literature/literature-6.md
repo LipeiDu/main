@@ -116,6 +116,9 @@ G. S. Denicol, S. Jeon, and C. Gale,
 Phys. Rev. C 90, 024912 (2014). [arXiv:1403.0962 [nucl-th]](https://arxiv.org/pdf/1403.0962)
 
 ## Equation of state
+* QCD Equation of State and Hadron Resonance Gas,
+Pasi Huovinen, Pter Petreczky, 
+Nucl.Phys. A837 (2010) 26-53. [arXiv:0912.2541 [hep-ph]](http://arxiv.org/pdf/0912.2541.pdf)
 * An Effective chiral Hadron-Quark Equation of State,
 J. Steinheimer, S. Schramm, H. Stocker,
 J.Phys. G38 (2011) 035001. [arXiv:1009.5239 [hep-ph] ](http://arxiv.org/pdf/1009.5239.pdf)
