@@ -109,4 +109,12 @@ Phys. Rev. Lett. 99, 172301 (2007). [arXiv:0706.1522 [nucl-th]](https://arxiv.or
 G. S. Denicol, S. Jeon, and C. Gale,
 Phys. Rev. C 90, 024912 (2014). [arXiv:1403.0962 [nucl-th]](https://arxiv.org/pdf/1403.0962)
 
+## Equation of state
+* An Effective chiral Hadron-Quark Equation of State,
+J. Steinheimer, S. Schramm, H. Stocker,
+J.Phys. G38 (2011) 035001. [arXiv:1009.5239 [hep-ph] ](http://arxiv.org/pdf/1009.5239.pdf)
+* Lattice-QCD-based equation of state with a critical point, 
+Paolo Parotto et al,
+[arXiv:1805.05249 [hep-ph]](http://arxiv.org/pdf/1805.05249.pdf)
+
 
