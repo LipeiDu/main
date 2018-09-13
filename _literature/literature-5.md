@@ -41,7 +41,10 @@ Eur.Phys.J. C74 (2014) no.10, 3077. [arXiv:1407.5530 [nucl-ex]](http://arxiv.org
 ### Pt dependence
 * Identified charged particle spectra and yields in Au+Au collisions at S(NN)1/2 = 200 GeV,
 PHENIX Collaboration (S.S. Adler (Brookhaven) et al.),
-Phys.Rev. C69 (2004) 034909. [nucl-ex/0307022](http://arxiv.org/pdf/nucl-ex/0307022.pdf)
+Phys.Rev. C69 (2004) 034909. [arXiv:nucl-ex/0307022](http://arxiv.org/pdf/nucl-ex/0307022.pdf)
+* Identified hadron transverse momentum spectra in Au+Au collisions at s(NN)(1/2) = 62.4 GeV,
+PHOBOS Collaboration (B.B. Back (Argonne) et al.),
+Phys.Rev. C75 (2007) 024910. [arXiv:nucl-ex/0610001](http://arxiv.org/pdf/nucl-ex/0610001.pdf)
 
 ### Rapidity dependence
 * Phobos results on charged particle multiplicity and pseudorapidity distributions in Au+Au, Cu+Cu, d+Au, and p+p collisions at ultra-relativistic energies,
