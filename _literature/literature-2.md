@@ -6,6 +6,10 @@ collection: literature
 ---
 
 ## Hybrid models
+
+* Integrated Dynamical Approach to Relativistic Heavy Ion Collisions,
+Tetsufumi Hirano, Pasi Huovinen, Koichi Murase, Yasushi Nara,
+Prog.Part.Nucl.Phys. 70 (2013) 108-158. [arXiv:1204.5814 [nucl-th]](http://arxiv.org/pdf/1204.5814.pdf)
 * Fully integrated transport approach to heavy ion reactions with an intermediate hydrodynamic stage,
 Hannah Petersen, Jan Steinheimer, Gerhard Burau, Marcus Bleicher, and Horst Stöcker,
 Phys. Rev. C 78, 044901 (2008). [arXiv:0806.1695 [nucl-th]](https://arxiv.org/pdf/0806.1695)
