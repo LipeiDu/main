@@ -13,6 +13,9 @@ Prog.Part.Nucl.Phys. 70 (2013) 108-158. [arXiv:1204.5814 [nucl-th]](http://arxiv
 * Fully integrated transport approach to heavy ion reactions with an intermediate hydrodynamic stage,
 Hannah Petersen, Jan Steinheimer, Gerhard Burau, Marcus Bleicher, and Horst Stöcker,
 Phys. Rev. C 78, 044901 (2008). [arXiv:0806.1695 [nucl-th]](https://arxiv.org/pdf/0806.1695)
+* Event-by-event hydrodynamics and elliptic flow from fluctuating initial states,
+H. Holopainen, H. Niemi, and K. J. Eskola,
+Phys. Rev. C 83, 034901 (2011). [arXiv:1007.0368 [hep-ph]](http://arxiv.org/pdf/1007.0368.pdf)
 * Influence of temperature-dependent shear viscosity on elliptic flow at backward and forward rapidities in ultrarelativistic heavy-ion collisions,
 E. Molnár, H. Holopainen, P. Huovinen, and H. Niemi,
 Phys. Rev. C 90, 044904 (2014). [arXiv:1407.8152 [nucl-th]](http://arxiv.org/pdf/1407.8152.pdf)
