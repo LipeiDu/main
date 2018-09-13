@@ -65,6 +65,9 @@ Phys. Rev. C 93, 011901(R)(2016). [arXiv:1506.07834 [nucl-ex]](http://arxiv.org/
 
 ## Cooper-Frye sampling
 
+* Comment on the Single Particle Distribution in the Hydrodynamic and Statistical Thermodynamic Models of Multiparticle Production,
+Fred Cooper, Graham Frye,
+Phys.Rev. D10 (1974) 186. [10.1103/PhysRevD.10.186](https://doi.org/10.1103/PhysRevD.10.186)
 * Different Realizations of Cooper-Frye Sampling with Conservation Laws,
 C. Schwarz, D. Oliinychenko, L.-G. Pang, S. Ryu, H. Petersen,
 2018 J. Phys. G: Nucl. Part. Phys. 45 015001. [arXiv:1707.07026 [hep-ph]](https://arxiv.org/pdf/1707.07026)
