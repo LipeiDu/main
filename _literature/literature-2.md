@@ -5,6 +5,15 @@ extremely successful in describing the observables of soft particles.<br/>"
 collection: literature
 ---
 
+## Hybrid models
+* Fully integrated transport approach to heavy ion reactions with an intermediate hydrodynamic stage,
+Hannah Petersen, Jan Steinheimer, Gerhard Burau, Marcus Bleicher, and Horst Stöcker,
+Phys. Rev. C 78, 044901 (2008). [arXiv:0806.1695 [nucl-th]](https://arxiv.org/pdf/0806.1695)
+* Estimation of the shear viscosity at finite net-baryon density from A+A collision data at √sNN=7.7–200 GeV,
+Iu. A. Karpenko, P. Huovinen, H. Petersen, and M. Bleicher,
+Phys. Rev. C 91, 064901 (2015). [arXiv:1502.01978 [nucl-th]](https://arxiv.org/pdf/1502.01978)
+
+
 ## Viscous hydrodynamical description of Quark-Gluon Plasma
 * Introduction to Hydrodynamics,
 Sangyong Jeon, Ulrich Heinz. [arXiv:1503.03931 [hep-ph]](https://arxiv.org/pdf/1503.03931)
