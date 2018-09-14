@@ -36,6 +36,7 @@ Chun Shen, Björn Schenke,
 
 ## Baryon evolution
 
+### Viscous hydrodynamics
 * Dissipative hydrodynamic evolution of hot quark matter at finite baryon density,
 Akihiko Monnai,
 PoS ConfinementX (2012) 168. [arXiv:1302.1955 [nucl-th]](http://arxiv.org/pdf/1302.1955.pdf)
@@ -54,6 +55,8 @@ Phys. Rev. C 88, 064901 (2013). [arXiv:1308.1923 [nucl-th]](http://arxiv.org/pdf
 * Net baryon diffusion in fluid dynamic simulations of relativistic heavy-ion collisions 
 Gabriel S. Denicol, Charles Gale, Sangyong Jeon, Akihiko Monnai, Björn Schenke, Chun Shen,
 [arXiv:1804.10557 [nucl-th]](http://arxiv.org/pdf/1804.10557.pdf)
+
+### Holographic model
 * Dynamical versus equilibrium properties of the QCD phase transition: A holographic perspective,
 Romulo Rougemont, Renato Critelli, Jacquelyn Noronha-Hostler, Jorge Noronha, Claudia Ratti,
 hys.Rev. D96 (2017) no.1, 014032. [arXiv:1704.05558 [hep-ph]](http://arxiv.org/pdf/1704.05558.pdf)
@@ -61,7 +64,15 @@ hys.Rev. D96 (2017) no.1, 014032. [arXiv:1704.05558 [hep-ph]](http://arxiv.org/p
 Romulo Rougemont, Renato Critelli, Jorge Noronha,
 Phys.Rev. D98 (2018) no.3, 034028. [arXiv:1804.00189 [hep-ph]](http://arxiv.org/pdf/1804.00189.pdf)
 
-
-
+### 3FD model
+* Event simulation based on three-fluid hydrodynamics for collisions at energies available at the Dubna Nuclotron-based Ion Collider Facility and at the Facility for Antiproton and Ion Research in Darmstadt,
+P. Batyuk et al.,
+Phys.Rev. C94 (2016) 044917. [arXiv:1608.00965 [nucl-th]](http://arxiv.org/pdf/1608.00965.pdf)
+* High baryon and energy densities achievable in heavy-ion collisions at √sNN= 39 GeV,
+Yu. B. Ivanov, A.A. Soldatov,
+Phys.Rev. C97 (2018) no.2, 021901. [arXiv:1711.03069 [nucl-th]](http://arxiv.org/pdf/1711.03069.pdf)
+* Bulk Properties of the Matter Produced at Energies of the Beam Energy Scan Program,
+Yu. B. Ivanov, A.A. Soldatov,
+Phys.Rev. C97 (2018) 024908. [arXiv:1801.01764 [nucl-th]](http://arxiv.org/pdf/1801.01764.pdf)
 
 
