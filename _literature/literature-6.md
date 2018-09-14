@@ -81,6 +81,9 @@ Phys. Rev. C 96, 034907 (2017). [arXiv:1705.08538 [nucl-th]](https://arxiv.org/p
 
 ## Transport coefficients
 
+* Strongly Interacting Low-Viscosity Matter Created in Relativistic Nuclear Collisions,
+Laszlo P. Csernai, Joseph I. Kapusta, and Larry D. McLerran,
+Phys. Rev. Lett. 97, 152303 (2006). [arXiv: nucl-th/0604032](http://arxiv.org/pdf/nucl-th/0604032.pdf)
 * Suppression of Baryon Diffusion and Transport in a Baryon Rich Strongly Coupled Quark-Gluon Plasma,
 Romulo Rougemont, Jorge Noronha, and Jacquelyn Noronha-Hostler,
 Phys. Rev. Lett. 115, 202301. [arXiv:1507.06972 [hep-ph]](https://arxiv.org/pdf/1507.06972)
@@ -114,6 +117,9 @@ Phys. Rev. Lett. 99, 172301 (2007). [arXiv:0706.1522 [nucl-th]](https://arxiv.or
 * Transport coefficients of bulk viscous pressure in the 14-moment approximation,
 G. S. Denicol, S. Jeon, and C. Gale,
 Phys. Rev. C 90, 024912 (2014). [arXiv:1403.0962 [nucl-th]](https://arxiv.org/pdf/1403.0962)
+* The effect of shear and bulk viscosities on elliptic flow,
+G S Denicol, T Kodama and T Koide,
+J.Phys. G37 (2010) 094040. [arXiv:1002.2394 [nucl-th]](http://arxiv.org/pdf/1002.2394.pdf)
 
 ## Equation of state
 * QCD Equation of State and Hadron Resonance Gas,
