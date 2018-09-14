@@ -57,6 +57,9 @@ Phys.Rev.Lett. 91 (2003) 052303. [arXiv: nucl-ex/0210015](http://arxiv.org/pdf/n
 * Nuclear stopping in Au + Au collisions at s(NN)(1/2) = 200 GeV,
 BRAHMS Collaboration (I.G. Bearden (Bohr Inst.) et al.) ,
 Phys.Rev.Lett. 93 (2004) 102301. [arXiv: nucl-ex/0312023 ](http://arxiv.org/pdf/nucl-ex/0312023.pdf) (**Energies: 200 GeV**)
+* Energy dependence of elliptic flow over a large pseudorapidity range in Au+Au collisions at RHIC,
+PHOBOS Collaboration (B.B. Back (Argonne) et al.),
+Phys.Rev.Lett. 94 (2005) 122303. [arXiv: nucl-ex/0406021](http://arxiv.org/pdf/nucl-ex/0406021.pdf) (**Energies: 19.6/62.4/130/200 GeV**)
 * Centrality and pseudorapidity dependence of elliptic flow for charged hadrons in Au+Au collisions at s(NN)(1/2) = 200 GeV
 PHOBOS Collaboration (B.B. Back (Argonne, PHY) et al.),
 Phys.Rev. C72 (2005) 051901. [arXiv: nucl-ex/0407012](http://arxiv.org/pdf/nucl-ex/0407012.pdf)  (**Energies: 200 GeV**)
