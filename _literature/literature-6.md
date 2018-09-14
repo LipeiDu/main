@@ -22,6 +22,9 @@ Phys. Rev. D 78, 074507 (2008). [arXiv:0804.3227 [hep-lat]](https://arxiv.org/pd
 * Critical points in the linear σ model with quarks,
 E. S. Bowman and J. I. Kapusta,
 Phys. Rev. C 79, 015202 (2009). [arXiv:0810.0042 [nucl-th]](https://arxiv.org/pdf/0810.0042.pdf)
+* Indication of a coexisting phase of quarks and hadrons in nucleus-nucleus collisions,
+Bedangadas Mohanty, Jan-e Alam, Sourav Sarkar, Tapan K. Nayak, and Basanta K. Nandi,
+Phys. Rev. C 68, 021901(R) (2003). [arXiv:nucl-th/0304023](https://arxiv.org/pdf/nucl-th/0304023)
 
 ### Lattice QCD
 * Phase boundary for the chiral transition in (2+1)-flavor QCD at small values of the chemical potential,
