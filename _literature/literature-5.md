@@ -50,6 +50,15 @@ Phys.Rev. C75 (2007) 024910. [arXiv:nucl-ex/0610001](http://arxiv.org/pdf/nucl-e
 * Phobos results on charged particle multiplicity and pseudorapidity distributions in Au+Au, Cu+Cu, d+Au, and p+p collisions at ultra-relativistic energies,
 PHOBOS Collaboration (B. Alver (MIT) et al.) ,
 Phys.Rev. C83 (2011) 024913. [arXiv:1011.1940 [nucl-ex]](http://arxiv.org/pdf/1011.1940.pdf) (**Energies: 19.6/62.4/200 GeV**)
+* Charged-particle pseudorapidity distributions in Au+Au collisions at s(NN)1/2 = 62.4 GeV,
+PHOBOS Collaboration (B.B. Back (Argonne) et al.),
+Phys.Rev. C74 (2006) 021901. [arXiv: nucl-ex/0509034](http://arxiv.org/pdf/nucl-ex/0509034.pdf) (**Energies: 62.4 GeV**)
+* Nuclear stopping and rapidity loss in Au+Au collisions at s(NN)(1/2) = 62.4 GeV,
+BRAHMS Collaboration (I.C. Arsene (Oslo U.) et al.),
+Phys.Lett. B677 (2009) 267-271. [arXiv:0901.0872 [nucl-ex]](http://arxiv.org/pdf/0901.0872.pdf) (**Energies: 62.4 GeV**)
+* Overview and Recent Results from BRAHMS,
+F. Videbaek, for the BRAHMS Collaboration,
+Nucl.Phys.A830:43c-50c,2009. [arXiv:0907.4742 [nucl-ex]](https://arxiv.org/pdf/0907.4742)
 
 ### Both
 * Energy dependence of pion and kaon production in central Pb + Pb collisions,
