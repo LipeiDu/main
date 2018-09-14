@@ -46,6 +46,9 @@ Phys.Rev. C69 (2004) 034909. [arXiv:nucl-ex/0307022](http://arxiv.org/pdf/nucl-e
 * Identified hadron transverse momentum spectra in Au+Au collisions at s(NN)(1/2) = 62.4 GeV,
 PHOBOS Collaboration (B.B. Back (Argonne) et al.),
 Phys.Rev. C75 (2007) 024910. [arXiv:nucl-ex/0610001](http://arxiv.org/pdf/nucl-ex/0610001.pdf) (**Energies: 62.4 GeV**)
+* Centrality dependence of identified particle elliptic flow in relativistic heavy ion collisions at √sNN=7.7–62.4 GeV,
+STAR Collaboration (L. Adamczyk (AGH-UST, Cracow) et al.),
+Phys.Rev. C93 (2016) no.1, 014907. [arXiv:1509.08397 [nucl-ex]](http://arxiv.org/pdf/1509.08397.pdf). HEPData(1395151) (**Energies:   7.7/11.5/19.6/27/39/62.4 GeV GeV**)
 
 ### Rapidity dependence
 * Baryon stopping and charged particle distributions in central Pb + Pb collisions at 158 GeV per nucleon,
