@@ -6,6 +6,7 @@ collection: literature
 
 ## Parton-hadron phase transition, freeze-out surface
 
+### Phase transition
 * The order of the quantum chromodynamics transition predicted by the standard model of particle physics,
 Y. Aoki, G. Endrodi, Z. Fodor, S.D. Katz, K.K. Szabo,
 Nature 443:675-678 (2006). [arXiv:hep-lat/0611014](https://arxiv.org/pdf/hep-lat/0611014)
@@ -15,6 +16,8 @@ Phys. Rev. Lett. 111, 082302. [arXiv:1212.2431 [nucl-th]](https://arxiv.org/pdf/
 * Comparison of chemical freeze-out criteria in heavy-ion collisions,
 J. Cleymans, H. Oeschler, K. Redlich, and S. Wheaton,
 Phys. Rev. C 73, 034905. [arXiv:hep-ph/0511094](https://arxiv.org/pdf/hep-ph/0511094.pdf)
+
+### Lattice QCD
 * Phase boundary for the chiral transition in (2+1)-flavor QCD at small values of the chemical potential,
 O. Kaczmarek, F. Karsch, E. Laermann, C. Miao, S. Mukherjee, P. Petreczky, C. Schmidt, W. Soeldner, and W. Unger,
 Phys. Rev. D 83, 014504. [arXiv:1011.3130 [hep-lat]](https://arxiv.org/pdf/1011.3130.pdf)
@@ -30,6 +33,11 @@ Phys. Rev. Lett. 113, 072001 (2014). [arXiv:1404.6511 [hep-lat]](https://arxiv.o
 * Freeze-Out Parameters from Electric Charge and Baryon Number Fluctuations: Is There Consistency?
 S. Borsanyi, Z. Fodor, S. D. Katz, S. Krieg, C. Ratti, and K. K. Szabo,
 Phys. Rev. Lett. 113, 052301 (2014). [arXiv:1403.4576 [hep-lat]](https://arxiv.org/pdf/1403.4576)
+
+### Experimental study
+* Systematics of Kinetic Freeze-out Properties in High Energy Collisions from STAR,
+STAR Collaboration (Lokesh Kumar (Bhubaneswar, NISER) for the collaboration),
+Nucl.Phys. A931 (2014) 1114-1119. [arXiv:1408.4209 [nucl-ex]](http://arxiv.org/pdf/1408.4209.pdf)
 
 ## Net proton/electric charge distribution
 
