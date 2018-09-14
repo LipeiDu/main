@@ -9,7 +9,7 @@ collection: literature
 K. Kajantie, Larry D. McLerran,
 [Phys.Lett. 119B (1982) 203-206.](https://www.sciencedirect.com/science/article/pii/0370269382902775?via%3Dihub)
 * Energy Densities, Initial Conditions and Hydrodynamic Equations for Ultrarelativistic Nucleus-nucleus Collisions,
-K. Kajantie (Helsinki U.), Larry D. McLerran (Helsinki U. & Washington U., Seattle),
+K. Kajantie, Larry D. McLerran,
 [Nucl.Phys. B214 (1983) 261-284.](https://www.sciencedirect.com/science/article/pii/0550321383906624?via%3Dihub)
 * New approach to initializing hydrodynamic fields and mini-jet propagation in quark-gluon fluids,
 Michito Okai, Koji Kawaguchi, Yasuki Tachibana, and Tetsufumi Hirano,
@@ -23,15 +23,16 @@ Phys.Rev. C97 (2018) no.2, 024907. [arXiv:1710.00881 [nucl-th]](http://arxiv.org
 * Dynamically integrated transport approach for heavy-ion collisions at high baryon density,
 Yukinao Akamatsu, Masayuki Asakawa, Tetsufumi Hirano, Masakiyo Kitazawa, Kenji Morita, Koichi Murase, Yasushi Nara, Chiho Nonaka, and Akira Ohnishi,
 Phys. Rev. C 98, 024909 (2018). [arXiv:1805.09024 [nucl-th]](http://arxiv.org/pdf/1805.09024.pdf)
+* Enhancement of strange baryons in high-multiplicity proton-proton and proton-nucleus collisions,
+Yuuka Kanakubo, Michito Okai, Yasuki Tachibana, Tetsufumi Hirano,
+[arXiv:1806.10329 [nucl-th]](http://arxiv.org/pdf/1806.10329.pdf)
 * Hybrid model with dynamical sources for heavy-ion collisions at BES energies,
 Lipei Du, Ulrich Heinz, Gojko Vujanovic,
 [arXiv:1807.04721 [nucl-th]](http://arxiv.org/pdf/1807.04721.pdf)
 * Dynamical initialization and hydrodynamic modeling of relativistic heavy-ion collisions,
 Chun Shen, Björn Schenke,
 [arXiv:1807.05141 [nucl-th]](http://arxiv.org/pdf/1807.05141.pdf)
-* Enhancement of strange baryons in high-multiplicity proton-proton and proton-nucleus collisions,
-Yuuka Kanakubo, Michito Okai, Yasuki Tachibana, Tetsufumi Hirano,
-[arXiv:1806.10329 [nucl-th]](http://arxiv.org/pdf/1806.10329.pdf)
+
 
 ## Baryon evolution
 
