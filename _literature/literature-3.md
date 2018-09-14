@@ -18,6 +18,9 @@ Phys. Rev. D 98, 036006. [arXiv:1712.10305 [nucl-th]](https://arxiv.org/pdf/1712
 * Hydrodynamics and critical slowing down,
 M. Stephanov, Y. Yin,
 Nuclear Physics A 967 (2017) 876–879. [arXiv:1704.07396 [nucl-th]](https://arxiv.org/pdf/1704.07396)
+* Fluidity and supercriticality of the QCD matter created in relativistic heavy ion collisions,
+Jinfeng Liao and Volker Koch,
+Phys. Rev. C 81, 014902 (2010). [arXiv:0909.3105 [hep-ph]](http://arxiv.org/pdf/0909.3105.pdf)
 
 ## Numerical studies
 * Hydrodynamical evolution near the QCD critical end point,
