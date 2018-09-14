@@ -120,6 +120,9 @@ Phys. Rev. C 90, 024912 (2014). [arXiv:1403.0962 [nucl-th]](https://arxiv.org/pd
 * The effect of shear and bulk viscosities on elliptic flow,
 G S Denicol, T Kodama and T Koide,
 J.Phys. G37 (2010) 094040. [arXiv:1002.2394 [nucl-th]](http://arxiv.org/pdf/1002.2394.pdf)
+* Influence of Shear Viscosity of Quark-Gluon Plasma on Elliptic Flow in Ultrarelativistic Heavy-Ion Collisions,
+H. Niemi, G. S. Denicol, P. Huovinen, E. Molnár, and D. H. Rischke,
+Phys. Rev. Lett. 106, 212302 (2011). [arXiv:1101.2442 [nucl-th]](http://arxiv.org/pdf/1101.2442.pdf)
 
 ## Equation of state
 * QCD Equation of State and Hadron Resonance Gas,
