@@ -8,9 +8,15 @@ collection: literature
 
 ### Pt dependence
 
+* Higher harmonic anisotropic flow measurements of charged particles in Pb-Pb collisions at √sNN=2.76 TeV,
+ALICE Collaboration (K. Aamodt (Bergen U.) et al.),
+Phys.Rev.Lett. 107 (2011) 032301. [arXiv:1105.3865 [nucl-ex]](http://arxiv.org/pdf/1105.3865.pdf). HEPData(900651).  (**Energies: 2.76 TeV**)
 * Centrality dependence of π, K, p production in Pb-Pb collisions at √sNN = 2.76 TeV,
 ALICE Collaboration (Betty Abelev (LLNL, Livermore) et al.),
 Phys.Rev. C88 (2013) 044910. [arXiv:1303.0737 [hep-ex]](http://arxiv.org/pdf/1303.0737.pdf) HEPData(1222333). (**Energies: 2.76 TeV**)
+* Measurement of the elliptic anisotropy of charged particles produced in PbPb collisions at √sNN=2.76 TeV,
+CMS Collaboration (Serguei Chatrchyan et al.),
+Phys.Rev. C87 (2013) no.1, 014902. [arXiv:1204.1409 [nucl-ex]](http://arxiv.org/pdf/1204.1409.pdf) HEPData(1107659).  (**Energies: 2.76 TeV**)
 * Measurement of higher-order harmonic azimuthal anisotropy in PbPb collisions at √sNN = 2.76 TeV,
 CMS Collaboration (Serguei Chatrchyan (Yerevan Phys. Inst.) et al.),
 Phys.Rev. C89 (2014) no.4, 044906. [arXiv:1310.8651 [nucl-ex]](http://arxiv.org/pdf/1310.8651.pdf) (**Energies: 2.76 TeV**)
@@ -18,6 +24,12 @@ Phys.Rev. C89 (2014) no.4, 044906. [arXiv:1310.8651 [nucl-ex]](http://arxiv.org/
 ALICE Collaboration (Jaroslav Adam (Prague, Tech. U.) et al.),
 Phys.Rev. C93 (2016) no.3, 034913.
 [arXiv:1506.07287 [nucl-ex]](http://arxiv.org/pdf/1506.07287.pdf) HEPData(1377750). (**Energies: 2.76 TeV**)
+* Anisotropic flow of charged particles in Pb-Pb collisions at √sNN=5.02 TeV,
+ALICE Collaboration (Jaroslav Adam (Prague, Tech. U.) et al.),
+Phys.Rev.Lett. 116 (2016) no.13, 132302. [arXiv:1602.01119 [nucl-ex]](http://arxiv.org/pdf/1602.01119.pdf). HEPData(1419244). (**Energies: 5.02 TeV**)
+* Higher harmonic flow coefficients of identified hadrons in Pb-Pb collisions at √sNN = 2.76 TeV,
+ALICE Collaboration (Jaroslav Adam (Prague, Tech. U.) et al.),
+JHEP 1609 (2016) 164. [arXiv:1606.06057 [nucl-ex]](http://arxiv.org/pdf/1606.06057.pdf) HEPData(1471285). (**Energies: 2.76 TeV**)
 
 ### Rapidity dependence
 
