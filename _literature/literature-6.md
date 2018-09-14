@@ -16,6 +16,12 @@ Phys. Rev. Lett. 111, 082302. [arXiv:1212.2431 [nucl-th]](https://arxiv.org/pdf/
 * Comparison of chemical freeze-out criteria in heavy-ion collisions,
 J. Cleymans, H. Oeschler, K. Redlich, and S. Wheaton,
 Phys. Rev. C 73, 034905. [arXiv:hep-ph/0511094](https://arxiv.org/pdf/hep-ph/0511094.pdf)
+* Canonical partition function and finite density phase transition in lattice QCD,
+Shinji Ejiri,
+Phys. Rev. D 78, 074507 (2008). [arXiv:0804.3227 [hep-lat]](https://arxiv.org/pdf/0804.3227)
+* Critical points in the linear σ model with quarks,
+E. S. Bowman and J. I. Kapusta,
+Phys. Rev. C 79, 015202 (2009). [arXiv:0810.0042 [nucl-th]](https://arxiv.org/pdf/0810.0042.pdf)
 
 ### Lattice QCD
 * Phase boundary for the chiral transition in (2+1)-flavor QCD at small values of the chemical potential,
