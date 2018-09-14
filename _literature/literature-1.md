@@ -44,6 +44,8 @@ Swagato Mukherjee, Raju Venugopalan, Yi Yin,
 Phys.Rev.Lett. 117 (2016) no.22, 222301. [arXiv:1605.09341 [hep-ph]](http://arxiv.org/pdf/1605.09341.pdf)
 
 ## QCD Critical Point
+
+### Signatures
 * Signatures of the tricritical point in QCD,
 M. Stephanov, K. Rajagopal, and E. Shuryak,
 Phys.Rev.Lett. 81 (1998) 4816-4819. [arXiv:hep-ph/9806219](http://arxiv.org/pdf/hep-ph/9806219.pdf)
@@ -65,6 +67,8 @@ Phys.Rev.Lett. 107 (2011) 052301. [arXiv:1104.1627 [hep-ph]](http://arxiv.org/pd
 * Searching for the QCD critical point via the rapidity dependence of cumulants,
 Jasmine Brewer, Swagato Mukherjee, Krishna Rajagopal, Yi Yin.
 [arXiv:1804.10215 [hep-ph]](http://arxiv.org/pdf/1804.10215.pdf)
+
+### Critical dynamics
 * Hadronic Fluctuations and Correlations, Volker Koch. [arXiv:0810.2520 [nucl-th]](https://arxiv.org/pdf/0810.2520)
 * Event-by-event fluctuations in heavy ion collisions and the QCD critical point,
 M. Stephanov, K. Rajagopal, and E. Shuryak,
