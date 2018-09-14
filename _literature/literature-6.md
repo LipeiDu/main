@@ -115,6 +115,9 @@ Phys. Rev. C 86, 014909 (2012). [arXiv:1203.2452 [nucl-th]](http://arxiv.org/pdf
 * Influence of Shear Viscosity of Quark-Gluon Plasma on Elliptic Flow in Ultrarelativistic Heavy-Ion Collisions,
 H. Niemi, G. S. Denicol, P. Huovinen, E. Molnár, and D. H. Rischke,
 Phys. Rev. Lett. 106, 212302 (2011). [arXiv:1101.2442 [nucl-th]](http://arxiv.org/pdf/1101.2442.pdf)
+* Moving forward to constrain the shear viscosity of QCD matter,
+Gabriel Denicol, Akihiko Monnai, Bjoern Schenke,
+Phys.Rev.Lett. 116 (2016) no.21, 212301. [arXiv:1512.01538 [nucl-th]](http://arxiv.org/pdf/1512.01538.pdf)
 
 ### Bulk viscosity
 * Bulk viscosity of gauge theory plasma at strong coupling,
