@@ -65,6 +65,9 @@ Phys.Rev.Lett. 82 (1999) 2471-2475. [arXiv:nucl-ex/9810014](http://arxiv.org/pdf
 * The Significance of the fragmentation region in ultrarelativistic heavy ion collisions,
 B.B. Back (Argonne) et al.,
 Phys.Rev.Lett. 91 (2003) 052303. [arXiv: nucl-ex/0210015](http://arxiv.org/pdf/nucl-ex/0210015.pdf) (**Energies:  19.6/130/200 GeV**)
+* Nuclear stopping in Au + Au collisions at s(NN)(1/2) = 200 GeV,
+BRAHMS Collaboration (I.G. Bearden (Bohr Inst.) et al.) ,
+Phys.Rev.Lett. 93 (2004) 102301. [arXiv: nucl-ex/0312023 ](http://arxiv.org/pdf/nucl-ex/0312023.pdf)
 
 ### Both
 * Energy dependence of pion and kaon production in central Pb + Pb collisions,
