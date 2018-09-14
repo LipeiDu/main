@@ -59,6 +59,12 @@ Phys.Lett. B677 (2009) 267-271. [arXiv:0901.0872 [nucl-ex]](http://arxiv.org/pdf
 * Overview and Recent Results from BRAHMS,
 F. Videbaek, for the BRAHMS Collaboration,
 Nucl.Phys.A830:43c-50c,2009. [arXiv:0907.4742 [nucl-ex]](https://arxiv.org/pdf/0907.4742)
+* Baryon stopping and charged particle distributions in central Pb + Pb collisions at 158 GeV per nucleon,
+NA49 Collaboration (H. Appelshauser (Darmstadt, GSI) et al.),
+Phys.Rev.Lett. 82 (1999) 2471-2475. [arXiv:nucl-ex/9810014](http://arxiv.org/pdf/nucl-ex/9810014.pdf) (**Energies: 158 GeV**)
+* The Significance of the fragmentation region in ultrarelativistic heavy ion collisions,
+B.B. Back (Argonne) et al.,
+Phys.Rev.Lett. 91 (2003) 052303. [arXiv: nucl-ex/0210015](http://arxiv.org/pdf/nucl-ex/0210015.pdf) (**Energies:  19.6/130/200 GeV**)
 
 ### Both
 * Energy dependence of pion and kaon production in central Pb + Pb collisions,
