@@ -67,6 +67,9 @@ Eur.Phys.J. C74 (2014) no.10, 3077. [arXiv:1407.5530 [nucl-ex]](http://arxiv.org
 * Identified charged particle spectra and yields in Au+Au collisions at S(NN)1/2 = 200 GeV,
 PHENIX Collaboration (S.S. Adler (Brookhaven) et al.),
 Phys.Rev. C69 (2004) 034909. [arXiv:nucl-ex/0307022](http://arxiv.org/pdf/nucl-ex/0307022.pdf) (**Energies: 200 GeV**)
+* Identified Particle Distributions in pp and Au+Au Collisions at √sNN=200 GeV,
+J. Adams et al. (STAR Collaboration),
+Phys. Rev. Lett. 92, 112301 (2004). [arXiv:nucl-ex/0310004](https://arxiv.org/pdf/nucl-ex/0310004)  (**Energies: 200 GeV**)
 * Scaling properties of azimuthal anisotropy in Au+Au and Cu+Cu collisions at s(NN) = 200 GeV,
 PHENIX Collaboration (A. Adare (Colorado U.) et al.),
 Phys.Rev.Lett. 98 (2007) 162301. [arXiv: nucl-ex/0608033](http://arxiv.org/pdf/nucl-ex/0608033.pdf)  (**Energies: 200 GeV**)
