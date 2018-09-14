@@ -21,7 +21,9 @@ Phys.Rev. C93 (2016) no.3, 034913.
 * Centrality dependence of the pseudorapidity density distribution for charged particles in Pb-Pb collisions at √sNN = 2.76 TeV,
 ALICE Collaboration (Ehab Abbas (Cairo, Acad. Sci. Res. Tech.) et al.). 
 Phys.Lett. B726 (2013) 610-622. [arXiv:1304.0347 [nucl-ex]](http://arxiv.org/pdf/1304.0347.pdf) HEPData(1225979). (**Energies: 2.76 TeV**)
-
+* Pseudorapidity dependence of the anisotropic flow of charged particles in Pb-Pb collisions at √sNN=2.76 TeV
+ALICE Collaboration (Jaroslav Adam (Prague, Tech. U.) et al.) ,
+Phys.Lett. B762 (2016) 376-388. [arXiv:1605.02035 [nucl-ex]](http://arxiv.org/pdf/1605.02035.pdf). HEPData(1456145) (**Energies: 2.76 TeV**)
 
 ### Other
 
@@ -55,6 +57,9 @@ Phys.Rev.Lett. 91 (2003) 052303. [arXiv: nucl-ex/0210015](http://arxiv.org/pdf/n
 * Nuclear stopping in Au + Au collisions at s(NN)(1/2) = 200 GeV,
 BRAHMS Collaboration (I.G. Bearden (Bohr Inst.) et al.) ,
 Phys.Rev.Lett. 93 (2004) 102301. [arXiv: nucl-ex/0312023 ](http://arxiv.org/pdf/nucl-ex/0312023.pdf) (**Energies: 200 GeV**)
+* Centrality and pseudorapidity dependence of elliptic flow for charged hadrons in Au+Au collisions at s(NN)(1/2) = 200 GeV
+PHOBOS Collaboration (B.B. Back (Argonne, PHY) et al.),
+Phys.Rev. C72 (2005) 051901. [arXiv: nucl-ex/0407012](http://arxiv.org/pdf/nucl-ex/0407012.pdf)  (**Energies: 200 GeV**)
 * Charged-particle pseudorapidity distributions in Au+Au collisions at s(NN)1/2 = 62.4 GeV,
 PHOBOS Collaboration (B.B. Back (Argonne) et al.),
 Phys.Rev. C74 (2006) 021901. [arXiv: nucl-ex/0509034](http://arxiv.org/pdf/nucl-ex/0509034.pdf) (**Energies: 62.4 GeV**)
@@ -67,6 +72,7 @@ Nucl.Phys.A830:43c-50c (2009). [arXiv:0907.4742 [nucl-ex]](https://arxiv.org/pdf
 * Phobos results on charged particle multiplicity and pseudorapidity distributions in Au+Au, Cu+Cu, d+Au, and p+p collisions at ultra-relativistic energies,
 PHOBOS Collaboration (B. Alver (MIT) et al.) ,
 Phys.Rev. C83 (2011) 024913. [arXiv:1011.1940 [nucl-ex]](http://arxiv.org/pdf/1011.1940.pdf) (**Energies: 19.6/62.4/200 GeV**)
+
 
 ### Both
 * Energy dependence of pion and kaon production in central Pb + Pb collisions,
