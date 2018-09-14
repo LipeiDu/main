@@ -36,6 +36,32 @@ Chun Shen, Björn Schenke,
 
 ## Baryon evolution
 
+* Dissipative hydrodynamic evolution of hot quark matter at finite baryon density,
+Akihiko Monnai,
+PoS ConfinementX (2012) 168. [arXiv:1302.1955 [nucl-th]](http://arxiv.org/pdf/1302.1955.pdf)
+* Dissipative Hydrodynamic Effects on Baryon Stopping,
+Akihiko Monnai,
+hys.Rev. C86 (2012) 014908. [arXiv:1204.4713 [nucl-th]](http://arxiv.org/pdf/1204.4713.pdf)
+* Off-equilibrium corrections to energy and conserved charge densities in the QGP fluid,
+Akihiko Monnai,
+Phys.Rev. C98 (2018) no.3, 034902.[arXiv:1803.03318 [nucl-th]](http://arxiv.org/pdf/1803.03318.pdf)
+* Probing the QCD Critical Point with Relativistic Heavy-Ion Collisions 
+Steffen A. Bass, Hannah Petersen, Cory Quammen, Hal Canary, Christopher G. Healey, Russell M. Taylor, II,
+Central Eur.J.Phys. 10 (2012) 1278-1281. [arXiv:1202.0076 [nucl-th]](http://arxiv.org/pdf/1202.0076.pdf)
 * Fluid behavior of a baryon-rich hadron resonance gas,
 Gabriel S. Denicol, Charles Gale, Sangyong Jeon, and Jorge Noronha,
 Phys. Rev. C 88, 064901 (2013). [arXiv:1308.1923 [nucl-th]](http://arxiv.org/pdf/1308.1923.pdf)
+* Net baryon diffusion in fluid dynamic simulations of relativistic heavy-ion collisions 
+Gabriel S. Denicol, Charles Gale, Sangyong Jeon, Akihiko Monnai, Björn Schenke, Chun Shen,
+[arXiv:1804.10557 [nucl-th]](http://arxiv.org/pdf/1804.10557.pdf)
+* Dynamical versus equilibrium properties of the QCD phase transition: A holographic perspective,
+Romulo Rougemont, Renato Critelli, Jacquelyn Noronha-Hostler, Jorge Noronha, Claudia Ratti,
+hys.Rev. D96 (2017) no.1, 014032. [arXiv:1704.05558 [hep-ph]](http://arxiv.org/pdf/1704.05558.pdf)
+* Nonhydrodynamic quasinormal modes and equilibration of a baryon dense holographic QGP with a critical point,
+Romulo Rougemont, Renato Critelli, Jorge Noronha,
+Phys.Rev. D98 (2018) no.3, 034028. [arXiv:1804.00189 [hep-ph]](http://arxiv.org/pdf/1804.00189.pdf)
+
+
+
+
+
