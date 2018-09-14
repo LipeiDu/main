@@ -10,27 +10,27 @@ collection: literature
 
 * Centrality dependence of π, K, p production in Pb-Pb collisions at √sNN = 2.76 TeV,
 ALICE Collaboration (Betty Abelev (LLNL, Livermore) et al.),
-Phys.Rev. C88 (2013) 044910. [arXiv:1303.0737 [hep-ex]](http://arxiv.org/pdf/1303.0737.pdf) HEPData(1222333).
+Phys.Rev. C88 (2013) 044910. [arXiv:1303.0737 [hep-ex]](http://arxiv.org/pdf/1303.0737.pdf) HEPData(1222333). (**Energies: 2.76 TeV**)
 * Centrality dependence of the nuclear modification factor of charged pions, kaons, and protons in Pb-Pb collisions at √sNN=2.76 TeV,
 ALICE Collaboration (Jaroslav Adam (Prague, Tech. U.) et al.),
 Phys.Rev. C93 (2016) no.3, 034913.
-[arXiv:1506.07287 [nucl-ex]](http://arxiv.org/pdf/1506.07287.pdf) HEPData(1377750).
+[arXiv:1506.07287 [nucl-ex]](http://arxiv.org/pdf/1506.07287.pdf) HEPData(1377750). (**Energies: 2.76 TeV**)
 
 ### Rapidity dependence
 
 * Centrality dependence of the pseudorapidity density distribution for charged particles in Pb-Pb collisions at √sNN = 2.76 TeV,
 ALICE Collaboration (Ehab Abbas (Cairo, Acad. Sci. Res. Tech.) et al.). 
-Phys.Lett. B726 (2013) 610-622. [arXiv:1304.0347 [nucl-ex]](http://arxiv.org/pdf/1304.0347.pdf) HEPData(1225979).
+Phys.Lett. B726 (2013) 610-622. [arXiv:1304.0347 [nucl-ex]](http://arxiv.org/pdf/1304.0347.pdf) HEPData(1225979). (**Energies: 2.76 TeV**)
 
 
 ### Other
 
 * K0S and Λ production in Pb-Pb collisions at √sNN = 2.76 TeV,
 ALICE Collaboration (Betty Bezverkhny Abelev (LLNL, Livermore) et al.),
-Phys.Rev.Lett. 111 (2013) 222301. [arXiv:1307.5530 [nucl-ex]](http://arxiv.org/pdf/1307.5530.pdf) HEPData(1243863).
+Phys.Rev.Lett. 111 (2013) 222301. [arXiv:1307.5530 [nucl-ex]](http://arxiv.org/pdf/1307.5530.pdf) HEPData(1243863).  (**Energies: 2.76 TeV**)
 * Multi-strange baryon production at mid-rapidity in Pb-Pb collisions at √sNN = 2.76 TeV,
 ALICE Collaboration (Betty Bezverkhny Abelev (LLNL, Livermore) et al.),
-Phys.Lett. B728 (2014) 216-227. [arXiv:1307.5543 [nucl-ex]](http://arxiv.org/pdf/1307.5543.pdf) HEPData(1243865).
+Phys.Lett. B728 (2014) 216-227. [arXiv:1307.5543 [nucl-ex]](http://arxiv.org/pdf/1307.5543.pdf) HEPData(1243865). (**Energies: 2.76 TeV**)
 * Event-by-event mean pT fluctuations in pp and Pb-Pb collisions at the LHC,
 ALICE Collaboration (Betty Bezverkhny Abelev (LLNL, Livermore) et al.) ,
 Eur.Phys.J. C74 (2014) no.10, 3077. [arXiv:1407.5530 [nucl-ex]](http://arxiv.org/pdf/1407.5530.pdf) HEPData(1307102).
