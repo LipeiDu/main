@@ -64,12 +64,21 @@ Eur.Phys.J. C74 (2014) no.10, 3077. [arXiv:1407.5530 [nucl-ex]](http://arxiv.org
 ## RHIC energies
 
 ### Pt dependence
+* An Excitation function of K- and K+ production in Au + Au reactions at the AGS,
+E866 and E917 Collaborations (L. Ahle et al.),
+Phys.Lett. B490 (2000) 53-60. [arXiv: nucl-ex/0008010](http://arxiv.org/pdf/nucl-ex/0008010.pdf). HEPData(531905)  (**Energies: 4/6/8/10.7 GeV**)
+* Excitation function of K+ and pi+ production in Au + Au reactions at 2 AGeV to 10 AGeV,
+E866 and E917 Collaborations (L. Ahle et al.),
+Phys.Lett. B476 (2000) 1-8. [arXiv: nucl-ex/9910008](http://arxiv.org/pdf/nucl-ex/9910008.pdf). HEPData(508374)  (**Energies: 2/4/6/8 GeV**)
 * Identified charged particle spectra and yields in Au+Au collisions at S(NN)1/2 = 200 GeV,
 PHENIX Collaboration (S.S. Adler (Brookhaven) et al.),
 Phys.Rev. C69 (2004) 034909. [arXiv:nucl-ex/0307022](http://arxiv.org/pdf/nucl-ex/0307022.pdf) (**Energies: 200 GeV**)
 * Identified Particle Distributions in pp and Au+Au Collisions at √sNN=200 GeV,
 J. Adams et al. (STAR Collaboration),
 Phys. Rev. Lett. 92, 112301 (2004). [arXiv:nucl-ex/0310004](https://arxiv.org/pdf/nucl-ex/0310004)  (**Energies: 200 GeV**)
+* Energy and centrality dependence of deuteron and proton production in Pb + Pb collisions at relativistic energies,
+NA49 Collaboration (T. Anticic et al.),
+Phys.Rev. C69 (2004) 024902. [DOI: 10.1103/PhysRevC.69.024902](https://doi.org/10.1103/PhysRevC.69.024902)   (**Energies: 40/80/158 GeV**)
 * Scaling properties of azimuthal anisotropy in Au+Au and Cu+Cu collisions at s(NN) = 200 GeV,
 PHENIX Collaboration (A. Adare (Colorado U.) et al.),
 Phys.Rev.Lett. 98 (2007) 162301. [arXiv: nucl-ex/0608033](http://arxiv.org/pdf/nucl-ex/0608033.pdf)  (**Energies: 200 GeV**)
@@ -124,6 +133,9 @@ Phys.Rev. C72 (2005) 014904. [arXiv:nucl-ex/0409033](http://arxiv.org/pdf/nucl-e
 * Identified particle production, azimuthal anisotropy, and interferometry measurements in Au+Au collisions at √sNN = 9.2 GeV,
 B. I. Abelev et al. (STAR Collaboration)
 Phys. Rev. C 81, 024911 (2010). [arXiv:0909.4131 [nucl-ex]](https://arxiv.org/pdf/0909.4131) (**Energies: 9.2 GeV**)
+* Pion and kaon production in central Pb + Pb collisions at 20 A and 30 AGeV: Evidence for the onset of deconfinement,
+NA49 Collaboration (C. Alt (Frankfurt U.) et al.),
+Phys.Rev. C77 (2008) 024903. [arXiv:0710.0118 [nucl-ex]](http://arxiv.org/pdf/0710.0118.pdf). HEPData(762554)  (**Energies: 20/30 GeV**)
 * Inclusive charged hadron elliptic flow in Au + Au collisions at √sNN = 7.7 - 39 GeV,
 STAR Collaboration (L. Adamczyk (AGH-UST, Cracow) et al.),
 Phys.Rev. C86 (2012) 054908. [arXiv:1206.5528 [nucl-ex]](http://arxiv.org/pdf/1206.5528.pdf) (**Energies: 7.7/11.5/19.6/27 GeV**)
