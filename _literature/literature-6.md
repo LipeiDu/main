@@ -44,6 +44,9 @@ Phys. Rev. Lett. 113, 052301 (2014). [arXiv:1403.4576 [hep-lat]](https://arxiv.o
 * Systematics of Kinetic Freeze-out Properties in High Energy Collisions from STAR,
 STAR Collaboration (Lokesh Kumar (Bhubaneswar, NISER) for the collaboration),
 Nucl.Phys. A931 (2014) 1114-1119. [arXiv:1408.4209 [nucl-ex]](http://arxiv.org/pdf/1408.4209.pdf)
+* Scale for the Phase Diagram of Quantum Chromodynamics,
+Sourendu Gupta, Xiaofeng Luo, Bedangadas Mohanty, Hans Georg Ritter, Nu Xu,
+Science 332:1525-1528 (2011). [arXiv:1105.3934 [hep-ph]](https://arxiv.org/pdf/1105.3934)
 
 ## Net proton/electric charge distribution
 
