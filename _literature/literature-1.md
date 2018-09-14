@@ -4,12 +4,19 @@ excerpt: "Studing the structure of the QCD Phase Diagram is one of the most impo
 collection: literature
 ---
 
-## Critical phenomena
+## Books
+* The Phases of Quantum Chromodynamics - From Confinement to Extreme Environments,
+John B. Kogut, Mikhail A. Stephanov, 
+[Cambridge University Press (2003)](https://www.cambridge.org/core/books/phases-of-quantum-chromodynamics/649FE81C53C36B20B905A0DBB2BCC5C8).
+* Phase Transition Dynamics,
+Akira Onuki,
+[Cambridge University Press (2002)](https://www.cambridge.org/core/books/phase-transition-dynamics/03717A24DB0264B7472497F05B119C67)
+
+
+## Review article
 * Theory of dynamic critical phenomena,
 P. C. Hohenberg and B. I. Halperin,
 [Rev. Mod. Phys. 49, 435](https://journals.aps.org/rmp/pdf/10.1103/RevModPhys.49.435).
-
-## Review article
 * QCD phase diagram and the critical point,
 M. A. Stephanov. [arXiv:hep-ph/0402115](https://arxiv.org/pdf/hep-ph/0402115)
 * Mapping the QCD Phase Diagram,
@@ -24,14 +31,6 @@ U. Heinz, P. Sorensen, A. Deshpande, C. Gagliardi, and F. Karsch et al.[arXiv:15
 * The phase diagram of dense QCD,
 Kenji Fukushima and Tetsuo Hatsuda,
 Rep. Prog. Phys. 74 (2011) 014001. [arXiv:1005.4814 [hep-ph]](https://arxiv.org/pdf/1005.4814)
-
-## Books
-* The Phases of Quantum Chromodynamics - From Confinement to Extreme Environments,
-John B. Kogut, Mikhail A. Stephanov, 
-[Cambridge University Press (2003)](https://www.cambridge.org/core/books/phases-of-quantum-chromodynamics/649FE81C53C36B20B905A0DBB2BCC5C8).
-* Phase Transition Dynamics,
-Akira Onuki,
-[Cambridge University Press (2002)](https://www.cambridge.org/core/books/phase-transition-dynamics/03717A24DB0264B7472497F05B119C67)
 
 ## Universality class
 * Dynamic universality class of the QCD critical point,
