@@ -42,6 +42,15 @@ Phys.Lett. B762 (2016) 376-388. [arXiv:1605.02035 [nucl-ex]](http://arxiv.org/pd
 
 ### Other
 
+* Centrality dependence of the charged-particle multiplicity density at mid-rapidity in Pb-Pb collisions at √sNN=2.76 TeV,
+ALICE Collaboration (Kenneth Aamodt (Bergen U.) et al.),
+Phys.Rev.Lett. 106 (2011) 032301. [arXiv:1012.1657 [nucl-ex]](http://arxiv.org/pdf/1012.1657.pdf) HEPData(880049). (**Energies: 2.76 TeV**)
+* Centrality dependence of the charged-particle multiplicity density at midrapidity in Pb-Pb collisions at √sNN = 5.02 TeV,
+ALICE Collaboration (Jaroslav Adam (Prague, Tech. U.) et al.),
+Phys.Rev.Lett. 116 (2016) no.22, 222302 [arXiv:1512.06104 [nucl-ex]](http://arxiv.org/pdf/1512.06104.pdf) HEPData(1410589). (**Energies: 5.02 TeV**)
+* Measurement of transverse energy at midrapidity in Pb-Pb collisions at √sNN=2.76 TeV,
+ALICE Collaboration (Jaroslav Adam (Prague, Tech. U.) et al.),
+Phys.Rev. C94 (2016) no.3, 034903. [arXiv:1603.04775 [nucl-ex]](http://arxiv.org/pdf/1603.04775.pdf) HEPData(1427723). (**Energies: 2.76 TeV**)
 * K0S and Λ production in Pb-Pb collisions at √sNN = 2.76 TeV,
 ALICE Collaboration (Betty Bezverkhny Abelev (LLNL, Livermore) et al.),
 Phys.Rev.Lett. 111 (2013) 222301. [arXiv:1307.5530 [nucl-ex]](http://arxiv.org/pdf/1307.5530.pdf) HEPData(1243863).  (**Energies: 2.76 TeV**)
