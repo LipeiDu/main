@@ -11,6 +11,9 @@ collection: literature
 * Centrality dependence of π, K, p production in Pb-Pb collisions at √sNN = 2.76 TeV,
 ALICE Collaboration (Betty Abelev (LLNL, Livermore) et al.),
 Phys.Rev. C88 (2013) 044910. [arXiv:1303.0737 [hep-ex]](http://arxiv.org/pdf/1303.0737.pdf) HEPData(1222333). (**Energies: 2.76 TeV**)
+* Measurement of higher-order harmonic azimuthal anisotropy in PbPb collisions at √sNN = 2.76 TeV,
+CMS Collaboration (Serguei Chatrchyan (Yerevan Phys. Inst.) et al.),
+Phys.Rev. C89 (2014) no.4, 044906. [arXiv:1310.8651 [nucl-ex]](http://arxiv.org/pdf/1310.8651.pdf) (**Energies: 2.76 TeV**)
 * Centrality dependence of the nuclear modification factor of charged pions, kaons, and protons in Pb-Pb collisions at √sNN=2.76 TeV,
 ALICE Collaboration (Jaroslav Adam (Prague, Tech. U.) et al.),
 Phys.Rev. C93 (2016) no.3, 034913.
@@ -43,9 +46,15 @@ Eur.Phys.J. C74 (2014) no.10, 3077. [arXiv:1407.5530 [nucl-ex]](http://arxiv.org
 * Identified charged particle spectra and yields in Au+Au collisions at S(NN)1/2 = 200 GeV,
 PHENIX Collaboration (S.S. Adler (Brookhaven) et al.),
 Phys.Rev. C69 (2004) 034909. [arXiv:nucl-ex/0307022](http://arxiv.org/pdf/nucl-ex/0307022.pdf) (**Energies: 200 GeV**)
+* Scaling properties of azimuthal anisotropy in Au+Au and Cu+Cu collisions at s(NN) = 200 GeV,
+PHENIX Collaboration (A. Adare (Colorado U.) et al.),
+Phys.Rev.Lett. 98 (2007) 162301. [arXiv: nucl-ex/0608033](http://arxiv.org/pdf/nucl-ex/0608033.pdf)  (**Energies: 200 GeV**)
 * Identified hadron transverse momentum spectra in Au+Au collisions at s(NN)(1/2) = 62.4 GeV,
 PHOBOS Collaboration (B.B. Back (Argonne) et al.),
 Phys.Rev. C75 (2007) 024910. [arXiv:nucl-ex/0610001](http://arxiv.org/pdf/nucl-ex/0610001.pdf) (**Energies: 62.4 GeV**)
+* Measurement of the higher-order anisotropic flow coefficients for identified hadrons in Au+Au collisions at √sNN = 200 GeV,
+PHENIX Collaboration (A. Adare (Colorado U.) et al.),
+Phys.Rev. C93 (2016) no.5, 051902. [arXiv:1412.1038 [nucl-ex]](http://arxiv.org/pdf/1412.1038.pdf)  (**Energies: 200 GeV**)
 * Centrality dependence of identified particle elliptic flow in relativistic heavy ion collisions at √sNN=7.7–62.4 GeV,
 STAR Collaboration (L. Adamczyk (AGH-UST, Cracow) et al.),
 Phys.Rev. C93 (2016) no.1, 014907. [arXiv:1509.08397 [nucl-ex]](http://arxiv.org/pdf/1509.08397.pdf). HEPData(1395151) (**Energies:   7.7/11.5/19.6/27/39/62.4 GeV GeV**)
