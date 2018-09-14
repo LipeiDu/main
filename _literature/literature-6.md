@@ -81,48 +81,59 @@ Phys. Rev. C 96, 034907 (2017). [arXiv:1705.08538 [nucl-th]](https://arxiv.org/p
 
 ## Transport coefficients
 
-* Strongly Interacting Low-Viscosity Matter Created in Relativistic Nuclear Collisions,
-Laszlo P. Csernai, Joseph I. Kapusta, and Larry D. McLerran,
-Phys. Rev. Lett. 97, 152303 (2006). [arXiv: nucl-th/0604032](http://arxiv.org/pdf/nucl-th/0604032.pdf)
-* Suppression of Baryon Diffusion and Transport in a Baryon Rich Strongly Coupled Quark-Gluon Plasma,
-Romulo Rougemont, Jorge Noronha, and Jacquelyn Noronha-Hostler,
-Phys. Rev. Lett. 115, 202301. [arXiv:1507.06972 [hep-ph]](https://arxiv.org/pdf/1507.06972)
-* Causal hydrodynamics of gauge theory plasmas from AdS/CFT duality,
-Makoto Natsuume and Takashi Okamura,
-Phys. Rev. D 77, 066014. [arXiv:0712.2916 [hep-th]](https://arxiv.org/pdf/0712.2916)
-* Bulk viscosity of gauge theory plasma at strong coupling,
-Alex Buchel,
-Phys.Lett.B663:286-289,2008. [arXiv:0708.3459 [hep-th]](https://arxiv.org/pdf/0708.3459)
-* Diffusion of Conserved Charges in Relativistic Heavy Ion Collisions，
-Moritz Greif, Jan. A. Fotakis, Gabriel S. Denicol, and Carsten Greiner，
-Phys.Rev.Lett. 120 (2018) no.24, 242301. [arXiv:1711.08680 [hep-ph]](http://arxiv.org/pdf/1711.08680.pdf)
-* Anomalous Viscosity of an Expanding Quark-Gluon Plasma,
-M. Asakawa, S. A. Bass, and B. Müller,
-Phys. Rev. Lett. 96, 252301 (2016). [arXiv:hep-ph/0603092](http://arxiv.org/pdf/hep-ph/0603092.pdf)
-* Violation of the Holographic Viscosity Bound in a Strongly Coupled Anisotropic Plasma,
-Anton Rebhan and Dominik Steineder,
-Phys. Rev. Lett. 108, 021601 (2012). [arXiv:1110.6825 [hep-th]](https://arxiv.org/pdf/1110.6825)
+
+### Extensive study
 * Second-Order Hydrodynamics in Next-to-Leading-Order QCD,
 Jacopo Ghiglieri, Guy D. Moore, and Derek Teaney,
 Phys. Rev. Lett. 121, 052302 (2018). [arXiv:1805.02663 [hep-ph]](https://arxiv.org/pdf/1805.02663)
-* Importance of the Bulk Viscosity of QCD in Ultrarelativistic Heavy-Ion Collisions,
-S. Ryu, J.-F. Paquet, C. Shen, G. S. Denicol, B. Schenke, S. Jeon, and C. Gale,
-Phys. Rev. Lett. 115, 132301 (2015). [arXiv:1502.01675 [nucl-th]](https://arxiv.org/pdf/1502.01675)
+* The effect of shear and bulk viscosities on elliptic flow,
+G S Denicol, T Kodama and T Koide,
+J.Phys. G37 (2010) 094040. [arXiv:1002.2394 [nucl-th]](http://arxiv.org/pdf/1002.2394.pdf)
+* Causal hydrodynamics of gauge theory plasmas from AdS/CFT duality,
+Makoto Natsuume and Takashi Okamura,
+Phys. Rev. D 77, 066014. [arXiv:0712.2916 [hep-th]](https://arxiv.org/pdf/0712.2916)
+* Anomalous Viscosity of an Expanding Quark-Gluon Plasma,
+M. Asakawa, S. A. Bass, and B. Müller,
+Phys. Rev. Lett. 96, 252301 (2016). [arXiv:hep-ph/0603092](http://arxiv.org/pdf/hep-ph/0603092.pdf)
+
+### Shear viscosity
+* Strongly Interacting Low-Viscosity Matter Created in Relativistic Nuclear Collisions,
+Laszlo P. Csernai, Joseph I. Kapusta, and Larry D. McLerran,
+Phys. Rev. Lett. 97, 152303 (2006). [arXiv: nucl-th/0604032](http://arxiv.org/pdf/nucl-th/0604032.pdf)
+* Violation of the Holographic Viscosity Bound in a Strongly Coupled Anisotropic Plasma,
+Anton Rebhan and Dominik Steineder,
+Phys. Rev. Lett. 108, 021601 (2012). [arXiv:1110.6825 [hep-th]](https://arxiv.org/pdf/1110.6825)
 * Measuring Shear Viscosity Using Transverse Momentum Correlations in Relativistic Nuclear Collisions,
 Sean Gavin and Mohamed Abdel-Aziz,
 Phys. Rev. Lett. 97, 162302 (2006). [arXiv:nucl-th/0606061](https://arxiv.org/pdf/nucl-th/0606061)
 * Viscosity Information from Relativistic Nuclear Collisions: How Perfect is the Fluid Observed at RHIC?
 Paul Romatschke and Ulrike Romatschke,
 Phys. Rev. Lett. 99, 172301 (2007). [arXiv:0706.1522 [nucl-th]](https://arxiv.org/pdf/0706.1522)
-* Transport coefficients of bulk viscous pressure in the 14-moment approximation,
-G. S. Denicol, S. Jeon, and C. Gale,
-Phys. Rev. C 90, 024912 (2014). [arXiv:1403.0962 [nucl-th]](https://arxiv.org/pdf/1403.0962)
-* The effect of shear and bulk viscosities on elliptic flow,
-G S Denicol, T Kodama and T Koide,
-J.Phys. G37 (2010) 094040. [arXiv:1002.2394 [nucl-th]](http://arxiv.org/pdf/1002.2394.pdf)
+* Influence of a temperature-dependent shear viscosity on the azimuthal asymmetries of transverse momentum spectra in ultrarelativistic heavy-ion collisions,
+H. Niemi, G. S. Denicol, P. Huovinen, E. Molnár, and D. H. Rischke,
+Phys. Rev. C 86, 014909 (2012). [arXiv:1203.2452 [nucl-th]](http://arxiv.org/pdf/1203.2452.pdf)
 * Influence of Shear Viscosity of Quark-Gluon Plasma on Elliptic Flow in Ultrarelativistic Heavy-Ion Collisions,
 H. Niemi, G. S. Denicol, P. Huovinen, E. Molnár, and D. H. Rischke,
 Phys. Rev. Lett. 106, 212302 (2011). [arXiv:1101.2442 [nucl-th]](http://arxiv.org/pdf/1101.2442.pdf)
+
+### Bulk viscosity
+* Bulk viscosity of gauge theory plasma at strong coupling,
+Alex Buchel,
+Phys.Lett.B663:286-289,2008. [arXiv:0708.3459 [hep-th]](https://arxiv.org/pdf/0708.3459)
+* Importance of the Bulk Viscosity of QCD in Ultrarelativistic Heavy-Ion Collisions,
+S. Ryu, J.-F. Paquet, C. Shen, G. S. Denicol, B. Schenke, S. Jeon, and C. Gale,
+Phys. Rev. Lett. 115, 132301 (2015). [arXiv:1502.01675 [nucl-th]](https://arxiv.org/pdf/1502.01675)
+* Transport coefficients of bulk viscous pressure in the 14-moment approximation,
+G. S. Denicol, S. Jeon, and C. Gale,
+Phys. Rev. C 90, 024912 (2014). [arXiv:1403.0962 [nucl-th]](https://arxiv.org/pdf/1403.0962)
+
+### Baryon diffusion
+* Suppression of Baryon Diffusion and Transport in a Baryon Rich Strongly Coupled Quark-Gluon Plasma,
+Romulo Rougemont, Jorge Noronha, and Jacquelyn Noronha-Hostler,
+Phys. Rev. Lett. 115, 202301. [arXiv:1507.06972 [hep-ph]](https://arxiv.org/pdf/1507.06972)
+* Diffusion of Conserved Charges in Relativistic Heavy Ion Collisions，
+Moritz Greif, Jan. A. Fotakis, Gabriel S. Denicol, and Carsten Greiner，
+Phys.Rev.Lett. 120 (2018) no.24, 242301. [arXiv:1711.08680 [hep-ph]](http://arxiv.org/pdf/1711.08680.pdf)
 
 ## Equation of state
 * QCD Equation of State and Hadron Resonance Gas,
