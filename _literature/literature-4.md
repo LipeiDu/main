@@ -58,6 +58,15 @@ Phys.Rev. D89 (2014) no.7, 074005. [arXiv:1207.6811 [nucl-th]](http://arxiv.org/
 * Net baryon diffusion in fluid dynamic simulations of relativistic heavy-ion collisions 
 Gabriel S. Denicol, Charles Gale, Sangyong Jeon, Akihiko Monnai, Björn Schenke, Chun Shen,
 [arXiv:1804.10557 [nucl-th]](http://arxiv.org/pdf/1804.10557.pdf)
+* Relativistic second-order dissipative hydrodynamics at finite chemical potential 
+Amaresh Jaiswal, Bengt Friman, Krzysztof Redlich,
+Phys.Lett. B751 (2015) 548-552. [arXiv:1507.02849 [nucl-th]](http://arxiv.org/pdf/1507.02849.pdf)
+* Fluid dynamic propagation of initial baryon number perturbations on a Bjorken flow background,
+Stefan Floerchinger, Mauricio Martinez,
+Phys.Rev. C92 (2015) no.6, 064906. [arXiv:1507.05569 [nucl-th]](http://arxiv.org/pdf/1507.05569.pdf)
+* Hydrodynamics at large baryon densities: Understanding proton vs. anti-proton v2 and other puzzles, 
+J. Steinheimer, V. Koch, M. Bleicher,
+Phys.Rev. C86 (2012) 044903. [arXiv:1207.2791 [nucl-th]](http://arxiv.org/pdf/1207.2791.pdf)
 
 ### Holographic model
 * Dynamical versus equilibrium properties of the QCD phase transition: A holographic perspective,
