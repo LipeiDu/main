@@ -87,4 +87,15 @@ Phys.Rev. C97 (2018) no.2, 021901. [arXiv:1711.03069 [nucl-th]](http://arxiv.org
 Yu. B. Ivanov, A.A. Soldatov,
 Phys.Rev. C97 (2018) 024908. [arXiv:1801.01764 [nucl-th]](http://arxiv.org/pdf/1801.01764.pdf)
 
+### Other
+* Baryon Number Fluctuations from a Crossover Equation of State Compared to Heavy-Ion Collision Measurements in the Beam Energy Range √sNN = 7.7 to 200 GeV,
+M. Albright, J. Kapusta, C. Young,
+Phys.Rev. C92 (2015) no.4, 044904. [arXiv:1506.03408 [nucl-th]](http://arxiv.org/pdf/1506.03408.pdf)
+* High Baryon Densities in Heavy Ion Collisions at Energies Attainable at the BNL Relativistic Heavy Ion Collider and the CERN Large Hadron Collider,
+Ming Li, Joseph I. Kapusta,
+Phys.Rev. C95 (2017) no.1, 011901. [arXiv:1604.08525 [nucl-th]](http://arxiv.org/pdf/1604.08525.pdf)
+* Chiral symmetry restoration versus deconfinement in heavy-ion collisions at high baryon density,
+W. Cassing, A. Palmese, P. Moreau, E.L. Bratkovskaya,
+Phys.Rev. C93 (2016) 014902. [arXiv:1510.04120 [nucl-th]](http://arxiv.org/pdf/1510.04120.pdf)
+
 
