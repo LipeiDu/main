@@ -52,6 +52,9 @@ Central Eur.J.Phys. 10 (2012) 1278-1281. [arXiv:1202.0076 [nucl-th]](http://arxi
 * Fluid behavior of a baryon-rich hadron resonance gas,
 Gabriel S. Denicol, Charles Gale, Sangyong Jeon, and Jorge Noronha,
 Phys. Rev. C 88, 064901 (2013). [arXiv:1308.1923 [nucl-th]](http://arxiv.org/pdf/1308.1923.pdf)
+* Solving the heat-flow problem with transient relativistic fluid dynamics,
+G.S. Denicol, H. Niemi, I. Bouras, E. Molnar, Z. Xu, D.H. Rischke, C. Greiner,
+Phys.Rev. D89 (2014) no.7, 074005. [arXiv:1207.6811 [nucl-th]](http://arxiv.org/pdf/1207.6811.pdf)
 * Net baryon diffusion in fluid dynamic simulations of relativistic heavy-ion collisions 
 Gabriel S. Denicol, Charles Gale, Sangyong Jeon, Akihiko Monnai, Björn Schenke, Chun Shen,
 [arXiv:1804.10557 [nucl-th]](http://arxiv.org/pdf/1804.10557.pdf)
