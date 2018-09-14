@@ -123,7 +123,7 @@ STAR Collaboration (J. Adams (Birmingham U.) et al.),
 Phys.Rev. C72 (2005) 014904. [arXiv:nucl-ex/0409033](http://arxiv.org/pdf/nucl-ex/0409033.pdf) (**Energies: 200 GeV**)
 * Identified particle production, azimuthal anisotropy, and interferometry measurements in Au+Au collisions at √sNN = 9.2 GeV,
 B. I. Abelev et al. (STAR Collaboration)
-Phys. Rev. C 81, 024911 (2010). [arXiv:0909.4131 [nucl-ex]](https://arxiv.org/pdf/0909.4131)
+Phys. Rev. C 81, 024911 (2010). [arXiv:0909.4131 [nucl-ex]](https://arxiv.org/pdf/0909.4131) (**Energies: 9.2 GeV**)
 * Inclusive charged hadron elliptic flow in Au + Au collisions at √sNN = 7.7 - 39 GeV,
 STAR Collaboration (L. Adamczyk (AGH-UST, Cracow) et al.),
 Phys.Rev. C86 (2012) 054908. [arXiv:1206.5528 [nucl-ex]](http://arxiv.org/pdf/1206.5528.pdf) (**Energies: 7.7/11.5/19.6/27 GeV**)
