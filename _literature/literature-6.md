@@ -168,6 +168,9 @@ J.Phys. G38 (2011) 035001. [arXiv:1009.5239 [hep-ph] ](http://arxiv.org/pdf/1009
 * Lattice-QCD-based equation of state with a critical point, 
 Paolo Parotto et al,
 [arXiv:1805.05249 [hep-ph]](http://arxiv.org/pdf/1805.05249.pdf)
+* The QCD equation of state with dynamical quarks,
+Szabolcs Borsanyi, Gergely Endrodi, Zoltan Fodor, Antal Jakovac, Sandor D. Katz, Stefan Krieg, Claudia Ratti, Kalman K. Szabo,
+JHEP 1011:077 (2010). [arXiv:1007.2580 [hep-lat]](https://arxiv.org/pdf/1007.2580)
 * QCD equation of state at nonzero chemical potential: continuum results with physical quark masses at order mu2 
 Sz. Borsanyi, G. Endrodi, Z. Fodor, S.D. Katz, S. Krieg, C. Ratti, K.K. Szabo,
 JHEP 1208 (2012) 053. [arXiv:1204.6710 [hep-lat]](http://arxiv.org/pdf/1204.6710.pdf)
