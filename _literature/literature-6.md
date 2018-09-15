@@ -67,9 +67,6 @@ Phys. Rev. C 98, 024910 (2018). [arXiv:1711.07260 [nucl-th]](https://arxiv.org/p
 * Charge Conservation and the Shape of the Ridge of Two-Particle Correlations in Relativistic Heavy-Ion Collisions,
 Piotr Bożek and Wojciech Broniowski,
 Phys. Rev. Lett. 109, 062301 (2012). [arXiv:1204.3580 [nucl-th]](https://arxiv.org/pdf/1204.3580)
-* Fluctuations of conserved charges at finite temperature from lattice QCD,
-Szabolcs Borsanyi, Zoltan Fodor, Sandor D. Katz, Stefan Krieg, Claudia Ratti, Kalman Szabo,
-JHEP 1201 (2012) 138. [arXiv:1112.4416 [hep-lat]](https://arxiv.org/pdf/1112.4416)
 
 ### Experimental study
 
@@ -177,12 +174,16 @@ JHEP 1011:077 (2010). [arXiv:1007.2580 [hep-lat]](https://arxiv.org/pdf/1007.258
 * QCD equation of state at nonzero chemical potential: continuum results with physical quark masses at order μB(2) 
 Sz. Borsanyi, G. Endrodi, Z. Fodor, S.D. Katz, S. Krieg, C. Ratti, K.K. Szabo,
 JHEP 1208 (2012) 053. [arXiv:1204.6710 [hep-lat]](http://arxiv.org/pdf/1204.6710.pdf)
+* Fluctuations of conserved charges at finite temperature from lattice QCD,
+Szabolcs Borsanyi, Zoltan Fodor, Sandor D. Katz, Stefan Krieg, Claudia Ratti, Kalman Szabo,
+JHEP 1201 (2012) 138. [arXiv:1112.4416 [hep-lat]](https://arxiv.org/pdf/1112.4416)
 * The QCD Equation of State to μB(4) from Lattice QCD,
 Prasad Hegde,
 Nucl. Phys. A. 08 (2014) 089. [arXiv:1408.6305 [hep-lat]](https://arxiv.org/pdf/1408.6305)
 * The QCD Equation of State to μB(6) from Lattice QCD,
 A. Bazavov, H.-T. Ding, P. Hegde, O. Kaczmarek, F. Karsch, E. Laermann, Y. Maezawa, S. Mukherjee, H. Ohno, P. Petreczky, H. Sandmeyer, P. Steinbrecher, C. Schmidt, S. Sharma, W. Soeldner, M. Wagner,
 Phys. Rev. D 95, 054504 (2017). [arXiv:1701.04325 [hep-lat]](https://arxiv.org/pdf/1701.04325)
+
 
 
 
