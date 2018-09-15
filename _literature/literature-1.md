@@ -85,6 +85,12 @@ Nucl.Phys. A956 (2016) 830-833. [arXiv:1512.08022 [nucl-th]](http://arxiv.org/pd
 * Universality regained: Kibble-Zurek dynamics, off-equilibrium scaling and the search for the QCD critical point,
 Swagato Mukherjee, Raju Venugopalan, Yi Yin,
 Nucl.Phys. A967 (2017) 820-823. [arXiv:1704.05427 [hep-ph]](http://arxiv.org/pdf/1704.05427.pdf)
+* Evolution of fluctuations near QCD critical point,
+M. A. Stephanov
+Phys. Rev. D 81, 054012 (2010). [arXiv:0911.1772 [hep-ph]](https://arxiv.org/pdf/0911.1772)
+* Nonequilibrium chiral fluid dynamics including dissipation and noise,
+Marlene Nahrgang, Stefan Leupold, Christoph Herold, and Marcus Bleicher,
+Phys. Rev. C 84, 024912 (2011). [arXiv:1105.0622 [nucl-th]](https://arxiv.org/pdf/1105.0622)
 
 ## Experimental Study
 * An Experimental Exploration of the QCD Phase Diagram: The Search for the Critical Point and the Onset of De-confinement,
