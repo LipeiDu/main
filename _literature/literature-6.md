@@ -171,9 +171,15 @@ Paolo Parotto et al,
 * The QCD equation of state with dynamical quarks,
 Szabolcs Borsanyi, Gergely Endrodi, Zoltan Fodor, Antal Jakovac, Sandor D. Katz, Stefan Krieg, Claudia Ratti, Kalman K. Szabo,
 JHEP 1011:077 (2010). [arXiv:1007.2580 [hep-lat]](https://arxiv.org/pdf/1007.2580)
-* QCD equation of state at nonzero chemical potential: continuum results with physical quark masses at order mu2 
+* QCD equation of state at nonzero chemical potential: continuum results with physical quark masses at order μB(2) 
 Sz. Borsanyi, G. Endrodi, Z. Fodor, S.D. Katz, S. Krieg, C. Ratti, K.K. Szabo,
 JHEP 1208 (2012) 053. [arXiv:1204.6710 [hep-lat]](http://arxiv.org/pdf/1204.6710.pdf)
+* The QCD Equation of State to μB(4) from Lattice QCD,
+Prasad Hegde,
+Nucl. Phys. A. 08 (2014) 089. [arXiv:1408.6305 [hep-lat]](https://arxiv.org/pdf/1408.6305)
+* The QCD Equation of State to μB(6) from Lattice QCD,
+A. Bazavov, H.-T. Ding, P. Hegde, O. Kaczmarek, F. Karsch, E. Laermann, Y. Maezawa, S. Mukherjee, H. Ohno, P. Petreczky, H. Sandmeyer, P. Steinbrecher, C. Schmidt, S. Sharma, W. Soeldner, M. Wagner,
+Phys. Rev. D 95, 054504 (2017). [arXiv:1701.04325 [hep-lat]](https://arxiv.org/pdf/1701.04325)
 
 
 
