@@ -91,6 +91,9 @@ Phys.Rev. C93 (2016) no.5, 051902. [arXiv:1412.1038 [nucl-ex]](http://arxiv.org/
 * Centrality dependence of identified particle elliptic flow in relativistic heavy ion collisions at √sNN=7.7–62.4 GeV,
 STAR Collaboration (L. Adamczyk (AGH-UST, Cracow) et al.),
 Phys.Rev. C93 (2016) no.1, 014907. [arXiv:1509.08397 [nucl-ex]](http://arxiv.org/pdf/1509.08397.pdf). HEPData(1395151) (**Energies:   7.7/11.5/19.6/27/39/62.4 GeV GeV**)
+* Bulk properties of the medium produced in relativistic heavy-ion collisions from the beam energy scan program,
+L. Adamczyk et al. (STAR Collaboration),
+Phys. Rev. C 96, 044904 (2017). [arXiv:1701.07065 [nucl-ex]](https://arxiv.org/pdf/1701.07065) (**Energies: 7.7/11.5/19.6/27/39 GeV GeV**)
 
 ### Rapidity dependence
 * Baryon stopping and charged particle distributions in central Pb + Pb collisions at 158 GeV per nucleon,
