@@ -67,6 +67,9 @@ Phys. Rev. C 98, 024910 (2018). [arXiv:1711.07260 [nucl-th]](https://arxiv.org/p
 * Charge Conservation and the Shape of the Ridge of Two-Particle Correlations in Relativistic Heavy-Ion Collisions,
 Piotr Bożek and Wojciech Broniowski,
 Phys. Rev. Lett. 109, 062301 (2012). [arXiv:1204.3580 [nucl-th]](https://arxiv.org/pdf/1204.3580)
+* Fluctuations of conserved charges at finite temperature from lattice QCD,
+Szabolcs Borsanyi, Zoltan Fodor, Sandor D. Katz, Stefan Krieg, Claudia Ratti, Kalman Szabo,
+JHEP 1201 (2012) 138. [arXiv:1112.4416 [hep-lat]](https://arxiv.org/pdf/1112.4416)
 
 ### Experimental study
 
