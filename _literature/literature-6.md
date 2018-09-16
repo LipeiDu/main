@@ -73,6 +73,10 @@ Phys. Rev. D 92, 114505 (2015). [arXiv:1507.04627 [hep-lat]](http://arxiv.org/pd
 * Correlated fluctuations near the QCD critical point,
 Lijia Jiang, Pengfei Li, and Huichao Song,
 Phys. Rev. C 94, 024918 (2016). [arXiv:1512.06164 [nucl-th]](http://arxiv.org/pdf/1512.06164.pdf)
+* Impact of resonance decays on critical point signals in net-proton fluctuations,
+Marcus Bluhm, Marlene Nahrgang, Steffen A. Bass, Thomas Schaefer,
+Eur.Phys.J. C77 (2017) no.4, 210. [arXiv:1612.03889 [nucl-th]](http://arxiv.org/pdf/1612.03889.pdf)
+
 
 ### Experimental study
 
@@ -203,6 +207,7 @@ ALICE Collaboration (Shreyasi Acharya (Calcutta, VECC) et al.),
 * Centrality and pseudorapidity dependence of the charged-particle multiplicity density in Xe-Xe collisions at √sNN = 5.44 TeV 
 ALICE Collaboration (Shreyasi Acharya (Calcutta, VECC) et al.),
 [arXiv:1805.04432 [nucl-ex]](http://arxiv.org/pdf/1805.04432.pdf)
+
 ### Theoretical studies
 * Predictions for multiplicities and flow harmonics in 5.44 TeV Xe+Xe collisions at the CERN Large Hadron Collider,
 K. J. Eskola, H. Niemi, R. Paatelainen, and K. Tuominen,
