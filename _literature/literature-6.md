@@ -70,6 +70,9 @@ Phys. Rev. Lett. 109, 062301 (2012). [arXiv:1204.3580 [nucl-th]](https://arxiv.o
 * Fluctuations and correlations in high temperature QCD,
 R. Bellwied, S. Borsányi, Z. Fodor, S. D. Katz, A. Pásztor, C. Ratti, and K. K. Szabó,
 Phys. Rev. D 92, 114505 (2015). [arXiv:1507.04627 [hep-lat]](http://arxiv.org/pdf/1507.04627.pdf)
+* Correlated fluctuations near the QCD critical point,
+Lijia Jiang, Pengfei Li, and Huichao Song,
+Phys. Rev. C 94, 024918 (2016). [arXiv:1512.06164 [nucl-th]](http://arxiv.org/pdf/1512.06164.pdf)
 
 ### Experimental study
 
