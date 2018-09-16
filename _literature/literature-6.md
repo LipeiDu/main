@@ -193,6 +193,24 @@ Nucl. Phys. A. 08 (2014) 089. [arXiv:1408.6305 [hep-lat]](https://arxiv.org/pdf/
 A. Bazavov, H.-T. Ding, P. Hegde, O. Kaczmarek, F. Karsch, E. Laermann, Y. Maezawa, S. Mukherjee, H. Ohno, P. Petreczky, H. Sandmeyer, P. Steinbrecher, C. Schmidt, S. Sharma, W. Soeldner, M. Wagner,
 Phys. Rev. D 95, 054504 (2017). [arXiv:1701.04325 [hep-lat]](https://arxiv.org/pdf/1701.04325)
 
+## XeXe at 5.44 TeV
 
-
+### Experimental results
+	
+* Transverse momentum spectra and nuclear modification factors of charged particles in Xe-Xe collisions at √sNN = 5.44 TeV 
+ALICE Collaboration (Shreyasi Acharya (Calcutta, VECC) et al.),
+[arXiv:1805.04399 [nucl-ex]](http://arxiv.org/pdf/1805.04399.pdf)
+* Centrality and pseudorapidity dependence of the charged-particle multiplicity density in Xe-Xe collisions at √sNN = 5.44 TeV 
+ALICE Collaboration (Shreyasi Acharya (Calcutta, VECC) et al.),
+[arXiv:1805.04432 [nucl-ex]](http://arxiv.org/pdf/1805.04432.pdf)
+### Theoretical studies
+* Predictions for multiplicities and flow harmonics in 5.44 TeV Xe+Xe collisions at the CERN Large Hadron Collider,
+K. J. Eskola, H. Niemi, R. Paatelainen, and K. Tuominen,
+Phys. Rev. C 97, 034911 (2018). [arXiv:1711.09803 [hep-ph]](http://arxiv.org/pdf/1711.09803.pdf)
+* Hydrodynamic predictions for 5.44 TeV Xe+Xe collisions,
+Giuliano Giacalone, Jacquelyn Noronha-Hostler, Matthew Luzum, and Jean-Yves Ollitrault,
+Phys. Rev. C 97, 034904 (2018). [arXiv:1711.08499 [nucl-th]](http://arxiv.org/pdf/1711.08499.pdf)
+* Confronting hydrodynamic predictions with Xe-Xe data,
+Giuliano Giacalone, Jacquelyn Noronha-Hostler, Matthew Luzum, and Jean-Yves Ollitrault,
+[arXiv:1807.05557 [nucl-th]](http://arxiv.org/pdf/1807.05557.pdf)
 
