@@ -88,6 +88,9 @@ Phys. Rev. Lett. 112, 032302 (2014). [arXiv:1309.5681 [nucl-ex]](https://arxiv.o
 * Measurement of higher cumulants of net-charge multiplicity distributions in Au+Au collisions at √sNN=7.7−200 GeV，
 A. Adare et al. (PHENIX Collaboration)，
 Phys. Rev. C 93, 011901(R)(2016). [arXiv:1506.07834 [nucl-ex]](http://arxiv.org/pdf/1506.07834.pdf)
+* Baseline for the cumulants of net-proton distributions at STAR,
+Xiaofeng Luo, Bedangadas Mohanty, Nu Xu,
+Nucl.Phys. A931 (2014) 808-813. [arXiv:1408.0495 [nucl-ex]](http://arxiv.org/pdf/1408.0495.pdf)
 
 ## Cooper-Frye surface
 
