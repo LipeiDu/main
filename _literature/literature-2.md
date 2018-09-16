@@ -13,6 +13,10 @@ Prog.Part.Nucl.Phys. 70 (2013) 108-158. [arXiv:1204.5814 [nucl-th]](http://arxiv
 * Fully integrated transport approach to heavy ion reactions with an intermediate hydrodynamic stage,
 Hannah Petersen, Jan Steinheimer, Gerhard Burau, Marcus Bleicher, and Horst Stöcker,
 Phys. Rev. C 78, 044901 (2008). [arXiv:0806.1695 [nucl-th]](https://arxiv.org/pdf/0806.1695)
+* Systematic parameter study of hadron spectra and elliptic flow from viscous hydrodynamic simulations of Au+Au collisions at 
+√sNN=200 GeV,
+Chun Shen, Ulrich Heinz, Pasi Huovinen, and Huichao Song,
+Phys. Rev. C 82, 054904 (2010). [arXiv:1010.1856 [nucl-th]](https://arxiv.org/pdf/1010.1856)
 * Event-by-event hydrodynamics and elliptic flow from fluctuating initial states,
 H. Holopainen, H. Niemi, and K. J. Eskola,
 Phys. Rev. C 83, 034901 (2011). [arXiv:1007.0368 [hep-ph]](http://arxiv.org/pdf/1007.0368.pdf)
