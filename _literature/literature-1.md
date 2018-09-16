@@ -73,6 +73,9 @@ Jasmine Brewer, Swagato Mukherjee, Krishna Rajagopal, Yi Yin.
 * Event-by-event fluctuations in heavy ion collisions and the QCD critical point,
 M. Stephanov, K. Rajagopal, and E. Shuryak,
 Phys.Rev. D60 (1999) 114028. [arXiv:hep-ph/9903292](http://arxiv.org/pdf/hep-ph/9903292.pdf)
+* Vacuum fluctuations and the thermodynamics of chiral models,
+V. Skokov, B. Friman, E. Nakano, K. Redlich, and B.-J. Schaefer,
+Phys. Rev. D 82, 034029 (2010). [arXiv:1005.3166 [hep-ph]](https://arxiv.org/pdf/1005.3166)
 * Real-time evolution of non-Gaussian cumulants in the QCD critical regime,
 Swagato Mukherjee, Raju Venugopalan, and Yi Yin,
 Phys.Rev. C92 (2015) no.3, 034912. [arXiv:1506.00645 [hep-ph]](http://arxiv.org/pdf/1506.00645.pdf)
