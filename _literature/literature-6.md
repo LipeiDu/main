@@ -76,6 +76,15 @@ Phys. Rev. C 94, 024918 (2016). [arXiv:1512.06164 [nucl-th]](http://arxiv.org/pd
 * Impact of resonance decays on critical point signals in net-proton fluctuations,
 Marcus Bluhm, Marlene Nahrgang, Steffen A. Bass, Thomas Schaefer,
 Eur.Phys.J. C77 (2017) no.4, 210. [arXiv:1612.03889 [nucl-th]](http://arxiv.org/pdf/1612.03889.pdf)
+* Evolution of charge fluctuations and correlations in the hydrodynamic stage of heavy ion collisions,
+Scott Pratt, Jane Kim, and Christopher Plumberg,
+Phys. Rev. C 98, 014904 (2018). [arXiv:1712.09298 [nucl-th]](https://arxiv.org/pdf/1712.09298)
+* Volume dependence of baryon number cumulants and their ratios,
+Gábor A. Almási, Robert D. Pisarski, and Vladimir V. Skokov,
+Phys. Rev. D 95, 056015 (2017). [arXiv:1612.04416 [hep-ph]](https://arxiv.org/pdf/1612.04416)
+* Isolating dynamical net-charge fluctuations,
+Rudolph Rogly, Giuliano Giacalone, Jean-Yves Ollitrault,
+[arXiv:1809.00648 [nucl-th]](https://arxiv.org/pdf/1809.00648)
 
 
 ### Experimental study
