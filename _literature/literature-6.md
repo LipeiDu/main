@@ -207,6 +207,10 @@ ALICE Collaboration (Shreyasi Acharya (Calcutta, VECC) et al.),
 * Centrality and pseudorapidity dependence of the charged-particle multiplicity density in Xe-Xe collisions at √sNN = 5.44 TeV 
 ALICE Collaboration (Shreyasi Acharya (Calcutta, VECC) et al.),
 [arXiv:1805.04432 [nucl-ex]](http://arxiv.org/pdf/1805.04432.pdf)
+* Anisotropic flow in Xe-Xe collisions at √sNN = 5.44 TeV, ALICE Collaboration, [arXiv:1805.01832 [nucl-ex]](https://arxiv.org/pdf/1805.01832v1)
+* Charged particle angular correlations in XeXe collision at √sNN = 5.44 TeV, [CMS-PAS-HIN-18-001](https://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/HIN-18-001/index.html)
+* Pseudorapidity distributions of charged hadrons in XeXe collisions at √sNN = 5.44 TeV, [CMS-PAS-HIN-17-006](https://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/HIN-17-006/index.html)
+* Charged-particle nuclear modification factors in XeXe collisions at √sNN = 5.44 TeV, [CMS-PAS-HIN-18-004](https://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/HIN-18-004/index.html)
 
 ### Theoretical studies
 * Predictions for multiplicities and flow harmonics in 5.44 TeV Xe+Xe collisions at the CERN Large Hadron Collider,
