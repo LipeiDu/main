@@ -137,6 +137,9 @@ Phys. Rev. D 77, 066014. [arXiv:0712.2916 [hep-th]](https://arxiv.org/pdf/0712.2
 * Anomalous Viscosity of an Expanding Quark-Gluon Plasma,
 M. Asakawa, S. A. Bass, and B. Müller,
 Phys. Rev. Lett. 96, 252301 (2016). [arXiv:hep-ph/0603092](http://arxiv.org/pdf/hep-ph/0603092.pdf)
+* Transport Coefficients of Hadronic Matter Near Tc,
+Jacquelyn Noronha-Hostler, Jorge Noronha, and Carsten Greiner,
+Phys. Rev. Lett. 103, 172302 (2009). [arXiv:0811.1571 [nucl-th]](https://arxiv.org/pdf/0811.1571)
 
 ### Shear viscosity
 * Strongly Interacting Low-Viscosity Matter Created in Relativistic Nuclear Collisions,
@@ -162,9 +165,12 @@ Gabriel Denicol, Akihiko Monnai, Bjoern Schenke,
 Phys.Rev.Lett. 116 (2016) no.21, 212301. [arXiv:1512.01538 [nucl-th]](http://arxiv.org/pdf/1512.01538.pdf)
 
 ### Bulk viscosity
+* Universal properties of bulk viscosity near the QCD phase transition,
+F. Karsch, D. Kharzeev, K. Tuchin,
+Phys.Lett.B663:217-221 (2008). [arXiv:0711.0914 [hep-ph]](https://arxiv.org/pdf/0711.0914)
 * Bulk viscosity of gauge theory plasma at strong coupling,
 Alex Buchel,
-Phys.Lett.B663:286-289,2008. [arXiv:0708.3459 [hep-th]](https://arxiv.org/pdf/0708.3459)
+Phys.Lett.B663:286-289 (2008). [arXiv:0708.3459 [hep-th]](https://arxiv.org/pdf/0708.3459)
 * Importance of the Bulk Viscosity of QCD in Ultrarelativistic Heavy-Ion Collisions,
 S. Ryu, J.-F. Paquet, C. Shen, G. S. Denicol, B. Schenke, S. Jeon, and C. Gale,
 Phys. Rev. Lett. 115, 132301 (2015). [arXiv:1502.01675 [nucl-th]](https://arxiv.org/pdf/1502.01675)
