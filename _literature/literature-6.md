@@ -238,3 +238,19 @@ Phys. Rev. C 97, 034904 (2018). [arXiv:1711.08499 [nucl-th]](http://arxiv.org/pd
 Giuliano Giacalone, Jacquelyn Noronha-Hostler, Matthew Luzum, and Jean-Yves Ollitrault,
 [arXiv:1807.05557 [nucl-th]](http://arxiv.org/pdf/1807.05557.pdf)
 
+### Related papers
+* Event-by-event shape and flow fluctuations of relativistic heavy-ion collision fireballs,
+Zhi Qiu and Ulrich Heinz,
+Phys. Rev. C 84, 024911 (2011). [arXiv:1104.0650 [nucl-th]](https://arxiv.org/pdf/1104.0650)
+* Flow analysis with cumulants: Direct calculations,
+Ante Bilandzic, Raimond Snellings, and Sergei Voloshin,
+Phys. Rev. C 83, 044913 (2011). [arXiv:1010.0233 [nucl-ex]](https://arxiv.org/pdf/1010.0233)
+* Generic framework for anisotropic flow analyses with multiparticle azimuthal correlations,
+Ante Bilandzic, Christian Holm Christensen, Kristjan Gulbrandsen, Alexander Hansen, and You Zhou,
+Phys. Rev. C 89, 064904 (2014). [arXiv:1312.3572 [nucl-ex]](https://arxiv.org/pdf/1312.3572)
+* Elliptic flow of identified hadrons in Pb-Pb collisions at √sNN = 2.76 TeV,
+ALICE Collaboration,
+JHEP 06 (2015) 190. [arXiv:1405.4632 [nucl-ex]](https://arxiv.org/pdf/1405.4632)
+* Azimuthal anisotropy of charged particles with transverse momentum up to 100 GeV in PbPb collisions at √sNN = 5.02 TeV,
+CMS Collaboration,
+Phys. Lett. B 776 (2017) 195. [arXiv:1702.00630 [hep-ex]](https://arxiv.org/pdf/1702.00630)
