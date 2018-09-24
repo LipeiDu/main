@@ -259,6 +259,9 @@ Phys. Lett. B 776 (2017) 195. [arXiv:1702.00630 [hep-ex]](https://arxiv.org/pdf/
 
 ### Experimental results
 
+* Global polarization of Λ hyperons in Au + Au collisions at √sNN = 200 GeV,
+J. Adam et al. (STAR Collaboration),
+Phys. Rev. C 98, 014910 (2018). [arXiv:1805.04400 [nucl-ex]](https://arxiv.org/pdf/1805.04400)
 * Global and local polarization of Λ hyperons in Au+Au collisions at 200 GeV from STAR,
 STAR Collaboration (Takafumi Niida for the collaboration),
 [arXiv:1808.10482 [nucl-ex]](http://arxiv.org/pdf/1808.10482.pdf)
