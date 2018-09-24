@@ -254,3 +254,12 @@ JHEP 06 (2015) 190. [arXiv:1405.4632 [nucl-ex]](https://arxiv.org/pdf/1405.4632)
 * Azimuthal anisotropy of charged particles with transverse momentum up to 100 GeV in PbPb collisions at √sNN = 5.02 TeV,
 CMS Collaboration,
 Phys. Lett. B 776 (2017) 195. [arXiv:1702.00630 [hep-ex]](https://arxiv.org/pdf/1702.00630)
+
+## Spin Polarization
+
+### Experimental results
+
+* Global and local polarization of Λ hyperons in Au+Au collisions at 200 GeV from STAR,
+STAR Collaboration (Takafumi Niida for the collaboration),
+[arXiv:1808.10482 [nucl-ex]](http://arxiv.org/pdf/1808.10482.pdf)
+
