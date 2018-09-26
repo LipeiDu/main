@@ -259,6 +259,9 @@ Phys. Lett. B 776 (2017) 195. [arXiv:1702.00630 [hep-ex]](https://arxiv.org/pdf/
 
 ### Experimental results
 
+* Global Λ hyperon polarization in nuclear collisions: evidence for the most vortical fluid,
+STAR Collaboration,
+Nature 548, 62 (2017). [arXiv:1701.06657 [nucl-ex]](https://arxiv.org/pdf/1701.06657)
 * Global polarization of Λ hyperons in Au + Au collisions at √sNN = 200 GeV,
 J. Adam et al. (STAR Collaboration),
 Phys. Rev. C 98, 014910 (2018). [arXiv:1805.04400 [nucl-ex]](https://arxiv.org/pdf/1805.04400)
