@@ -145,4 +145,6 @@ Phys.Rev. C86 (2012) 054908. [arXiv:1206.5528 [nucl-ex]](http://arxiv.org/pdf/12
 
 ### Other
 
-
+* Inclusive charged hadron elliptic flow in Au+Au collisions at √sNN == 7.7 - 39 GeV,
+L. Adamczyk et al. (STAR Collaboration),
+Phys. Rev. C 86, 054908 (2012). [arXiv:1206.5528 [nucl-ex]](http://arxiv.org/pdf/1206.5528.pdf)
