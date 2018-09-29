@@ -62,3 +62,17 @@ Phys. Rev. C 97, 064918. [arXiv:1802.04449 [nucl-th]](https://arxiv.org/pdf/1802
 Iu. Karpenko, P. Huovinen, M. Bleicher, Comput. Phys. Commun. 185 (2014), 3016. [arXiv:1312.4160 [nucl-th]](https://arxiv.org/pdf/1312.4160)
 * **MUSIC** 3+1D hydrodynamic simulation of relativistic heavy-ion collisions,
 Bjoern Schenke, Sangyong Jeon, Charles Gale, Phys. Rev. C 82, 014903. [arXiv:1004.1408 [hep-ph]](https://arxiv.org/pdf/1004.1408)
+
+## Hydrodynamic attractor
+* Relativistic Fluid Dynamics Far From Local Equilibrium,
+Paul Romatschke,
+Phys.Rev.Lett. 120 (2018) no.1, 012301. [arXiv:1704.08699 [hep-th]](http://arxiv.org/pdf/1704.08699.pdf)
+* Relativistic Hydrodynamic Attractors with Broken Symmetries: Non-Conformal and Non-Homogeneous,
+Paul Romatschke,
+JHEP 1712 (2017) 079. [arXiv:1710.03234 [hep-th]](http://arxiv.org/pdf/1710.03234.pdf)
+* Anisotropic nonequilibrium hydrodynamic attractor,
+Michael Strickland, Jorge Noronha, Gabriel Denicol,
+Phys.Rev. D97 (2018) no.3, 036020. [arXiv:1709.06644 [nucl-th]](http://arxiv.org/pdf/1709.06644.pdf)
+* The non-equilibrium attractor for kinetic theory in relaxation time approximation,
+Michael Strickland,
+[arXiv:1809.01200 [nucl-th]](http://arxiv.org/pdf/1809.01200.pdf)
