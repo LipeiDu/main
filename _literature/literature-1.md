@@ -52,6 +52,9 @@ Phys.Rev.Lett. 81 (1998) 4816-4819. [arXiv:hep-ph/9806219](http://arxiv.org/pdf/
 * Proton-Number Fluctuation as a Signal of the QCD Critical End Point,
 Y. Hatta and M. A. Stephanov,
 Phys. Rev. Lett. 91, 102003. [arXiv:hep-ph/0302002 ](http://arxiv.org/pdf/hep-ph/0302002.pdf)
+* Has the QCD Critical Point Been Signaled by Observations at the BNL Relativistic Heavy Ion Collider?
+Roy A. Lacey, N. N. Ajitanand, J. M. Alexander, P. Chung, W. G. Holzmann, M. Issah, A. Taranenko, P. Danielewicz, and Horst Stöcker,
+Phys. Rev. Lett. 98, 092301 (2007). [arXiv:nucl-ex/0609025](https://arxiv.org/pdf/nucl-ex/0609025v5)
 * Transverse Velocity Dependence of the Proton-Antiproton Ratio as a Signature of the QCD Critical Point,
 M. Asakawa, S. A. Bass, B. Müller, and C. Nonaka,
 Phys.Rev.Lett. 101 (2008) 122302. [arXiv:0803.2449 [nucl-th]](http://arxiv.org/pdf/0803.2449.pdf)
