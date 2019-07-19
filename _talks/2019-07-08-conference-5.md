@@ -3,7 +3,7 @@ title: "National Nuclear Physics Summer School 2019"
 collection: talks
 type: "School"
 permalink: /talks/2019-07-08-conference-5
-venue: "The University of Tennessee, Knoxville"
+venue: "The University of Tennessee"
 date: 2019-07-08
 location: "Knoxville, TN"
 ---
