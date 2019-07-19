@@ -1,7 +1,7 @@
 ---
 title: "JETSCAPE Winter School and Workshop 2018"
 collection: talks
-type: "Conference"
+type: "Workshop"
 permalink: /talks/2018-01-03-conference-1
 venue: "Lawrence Berkeley National Laboratory"
 date: 2018-01-03

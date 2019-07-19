@@ -1,7 +1,7 @@
 ---
 title: "BEST Collaboration Annual Meeting 2019"
 collection: talks
-type: "Conference"
+type: "Meeting"
 permalink: /talks/2019-05-12-conference-4
 venue: "North Carolina State University "
 date: 2019-05-12

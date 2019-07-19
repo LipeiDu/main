@@ -3,9 +3,9 @@ title: "Department poster session"
 collection: talks
 type: "Poster"
 permalink: /talks/2019-05-02-conference-3
-venue: "Ohio State University"
+venue: "The Ohio State University"
 date: 2019-05-02
-location: "Columbus OH"
+location: "Columbus, OH"
 ---
 
 Dates: 02 May 2019.
