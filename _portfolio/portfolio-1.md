@@ -1,7 +1,8 @@
 ---
-title: "Berkeley"
-excerpt: "Taken on Jan. 06, 2018, during JETSCAPE Winter School and Workshop 2018<br/><img src='/images/IMG_1.jpg'>"
+title: "Random"
+excerpt: "<br/><img src='/images/Cover_Random.jpg'>"
 collection: portfolio
 ---
-
-No description
+The few photos below were taken on Jul. 11, 2016, when I just bought my camera
+![](/images/IMG_3.jpg)
+![](/images/IMG_4.jpg)

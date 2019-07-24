@@ -1,9 +1,7 @@
 ---
-title: "Landscape"
-excerpt: "Taken on Jul. 11, 2016, when I just bought my camera<br/><img src='/images/IMG_3.jpg'>"
+title: "Berkeley"
+excerpt: "Taken on Jan. 06, 2018, during JETSCAPE Winter School and Workshop 2018<br/><img src='/images/IMG_1.jpg'>"
 collection: portfolio
 ---
-![](/images/IMG_3.jpg)
-![](/images/IMG_4.jpg)
 
 No description
