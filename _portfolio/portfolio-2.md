@@ -1,5 +1,5 @@
 ---
-title: "City"
+title: "Cities"
 excerpt: "<br/><img src='/images/Cover_City.jpg'>"
 collection: portfolio
 ---
