@@ -10,9 +10,16 @@ author_profile: true
 
 **Photographing is fun!** I bought my first camera Canon EOS Rebel T5 in the summer of 2016. Please find some photos I took on [portfolio](https://lipeidu.github.io/portfolio/) page.
 
+
+## Biking
+
+Biking used to be one of my favorite hobbies. Below is a photo of my bike, a good buddy.
+
+<img src="IMG_bike.jpg" alt="bike" style="width:200px;"/>
+
 ## Popular science writing
 
-Making of sciences more popular and accessible to people outside academia is very meaningful in my opinion. One of the helpful methods is to write more popular science articles, the number of which in Chinese is still quite limited. During the last few years when I was more available, I wrote some articles in Chinese for [Scientific American Magazine (Chinese Edition)](https://huanqiukexue.com/) and its (also a few other) social media websites, to introduce some latest research progresses in physics. I also was invited to translate some popular science articles in English into Chinese sometimes. It was quite enjoyable and also helpful for myself to get a broader view of physics.
+Making sciences more popular and accessible to people outside academia is very meaningful in my opinion. One of the helpful methods is to write more popular science articles, the number of which in Chinese is still quite limited. During the last few years when I was more available, I wrote some articles in Chinese for [Scientific American Magazine (Chinese Edition)](https://huanqiukexue.com/) and its (also a few other) social media websites, to introduce some latest research progresses in physics. I also was invited to translate some popular science articles in English into Chinese sometimes. It was quite enjoyable and also helpful for myself to get a broader view of physics.
 
 ### Original articles
 I tried to introduce some latest progresses in physics and some interesting topics (mainly in 2017), and 6 of them appeared on Chinese Edition of Scientific American Magazine.
