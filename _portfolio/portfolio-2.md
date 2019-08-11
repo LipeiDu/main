@@ -1,6 +1,6 @@
 ---
 title: "Cities"
-excerpt: "<br/><img src='/images/Cover_City.jpg' style='width:500px;'/>"
+excerpt: "<br/><img src='/images/Cover_Cities.jpg' style='width:500px;'/>"
 collection: portfolio
 ---
 
