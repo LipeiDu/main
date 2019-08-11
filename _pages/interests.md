@@ -15,7 +15,7 @@ author_profile: true
 
 Biking used to be one of my favorite hobbies. Below is a photo of my bike, a good buddy.
 
-<img src="IMG_bike.jpg" alt="bike" style="width:200px;"/>
+<img style="border:1px solid black;" src="/images/IMG_bike.jpg" alt="bike" style="width:200px;"/>
 
 ## Popular science writing
 
