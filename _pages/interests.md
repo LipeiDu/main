@@ -20,7 +20,7 @@ Biking used to be one of my favorite hobbies. Below is a photo of my bike, a goo
 
 ## Painting
 
-At some point, I found enjoying photographing also makes painting interesting to me, but I didn't paint much. Here I used APP paper53 on iPad.
+At some point, I found enjoying photographing also makes painting interesting to me, but I didn't paint much (some of my paintings were just imitations). Here I used App paper53 on iPad for painting.
 
 <img style="border:4px solid black;" src="/images/IMG_painting.jpg" alt="painting" style="width:400px;"/>
 
