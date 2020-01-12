@@ -24,6 +24,10 @@ At some point, I found enjoying photographing also makes painting interesting to
 
 <img style="border:4px solid black;" src="/images/IMG_painting.jpg" alt="painting" style="width:400px;"/>
 
+This is my first painting on canvas at my friend's house, more interesting than on an iPad (Septermber 7, 2019).
+
+<img style="border:4px solid black;" src="/images/IMG_painting2.jpg" alt="painting" style="width:400px;"/>
+
 ## Popular science writing
 
 Making sciences more popular and accessible to people outside academia is very meaningful in my opinion. One of the helpful methods is to write more popular science articles, the number of which in Chinese is still quite limited. During the last few years when I was more available, I wrote some articles in Chinese for [Scientific American Magazine (Chinese Edition)](https://huanqiukexue.com/) and its (also a few other) social media websites, to introduce some latest research progresses in physics. I also was invited to translate some popular science articles in English into Chinese sometimes. It was quite enjoyable and also helpful for myself to get a broader view of physics.
