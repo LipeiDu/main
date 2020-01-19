@@ -1,7 +1,7 @@
 ---
-title: "National Nuclear Physics Summer School 2019"
+title: "2019 Fall Meeting of the APS Division of Nuclear Physics"
 collection: talks
-type: "Conference"
+type: "Meeting"
 permalink: /talks/2019-10-14-conference-6
 venue: "Crystal Gateway Marriott"
 date: 2019-10-14
