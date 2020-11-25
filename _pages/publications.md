@@ -10,23 +10,31 @@ author_profile: true
 
 ### Hydrodynamics
 
-* (3+1)-dimensional dissipative relativistic fluid dynamics at non-zero net baryon density,
-Lipei Du and Ulrich Heinz,
-Comput.Phys.Commun. 251 (2020) 107090,
-[arXiv: 1906.11181](https://inspirehep.net/literature/1741415).
+* <!DOCTYPE html> <html> <body>    <p><b>     <a href="https://inspirehep.net/literature/1741415">       (3+1)-dimensional dissipative relativistic fluid dynamics at non-zero net baryon density     </a>   </b></p>        <p><a href="https://inspirehep.net/authors/1280397">Lipei Du</a> (<a href="https://inspirehep.net/institutions/903092">Ohio State U.</a>), <a href="https://inspirehep.net/authors/1006291">Ulrich Heinz</a> (<a href="https://inspirehep.net/institutions/903092">Ohio State U.</a> and <a href="https://inspirehep.net/institutions/904315">Frankfurt U.</a>)</p>      <p>       e-Print:           <a href="https://arxiv.org/abs/1906.11181">       1906.11181     </a>[nucl-th]</p>   <p>         DOI:         <a href="https://doi.org/10.1016/j.cpc.2019.107090">       10.1016/j.cpc.2019.107090     </a>(publication)       </p>   <p>     Published in:<span>       Comput.Phys.Commun. 251 (2020),       107090</span></p>   <br> </body> </html>
 
-* Hybrid model with dynamical sources for heavy-ion collisions at BES energies,
-Lipei Du, Ulrich Heinz and Gojko Vujanovic,
-Nucl.Phys.A 982 (2019) 407-410,
-[arXiv: 1807.04721](https://inspirehep.net/literature/1681943).
+* <!DOCTYPE html> <html> <body>    <p><b>     <a href="https://inspirehep.net/literature/1681943">       Hybrid model with dynamical sources for heavy-ion collisions at BES energies     </a>   </b></p>        <p><a href="https://inspirehep.net/authors/1280397">Lipei Du</a> (<a href="https://inspirehep.net/institutions/903092">Ohio State U.</a>), <a href="https://inspirehep.net/authors/1006291">Ulrich Heinz</a> (<a href="https://inspirehep.net/institutions/903092">Ohio State U.</a> and <a href="https://inspirehep.net/institutions/902725">CERN</a> and <a href="https://inspirehep.net/institutions/911632">Darmstadt, EMMI</a>), <a href="https://inspirehep.net/authors/1059435">Gojko Vujanovic</a> (<a href="https://inspirehep.net/institutions/903092">Ohio State U.</a>)</p>      <p>       e-Print:           <a href="https://arxiv.org/abs/1807.04721">       1807.04721     </a>[nucl-th]</p>   <p>         DOI:         <a href="https://doi.org/10.1016/j.nuclphysa.2018.09.015">       10.1016/j.nuclphysa.2018.09.015     </a>(publication)       </p>   <p>     Published in:<span>       Nucl.Phys.A 982 (2019),       407-410</span></p>   <br> </body> </html>
 
 ### Critical fluctuations
 
-* Fluctuation dynamics near the QCD critical point,
-Lipei Du, Ulrich Heinz, Krishna Rajagopal and Yi Yin,
-[arXiv: 2004.02719](https://inspirehep.net/literature/1789762).
+* <!DOCTYPE html> <html> <body>    <p><b>     <a href="https://inspirehep.net/literature/1789762">       Fluctuation dynamics near the QCD critical point     </a>   </b></p>        <p><a href="https://inspirehep.net/authors/1280397">Lipei Du</a> (<a href="https://inspirehep.net/institutions/903092">Ohio State U.</a>), <a href="https://inspirehep.net/authors/1006291">Ulrich Heinz</a> (<a href="https://inspirehep.net/institutions/903092">Ohio State U.</a> and <a href="https://inspirehep.net/institutions/909678">Frankfurt U., FIAS</a>), <a href="https://inspirehep.net/authors/992392">Krishna Rajagopal</a> (<a href="https://inspirehep.net/institutions/903016">MIT, LNS</a>), <a href="https://inspirehep.net/authors/1121758">Yi Yin</a> (<a href="https://inspirehep.net/institutions/903016">MIT, LNS</a> and <a href="https://inspirehep.net/institutions/905390">Lanzhou, Inst. Modern Phys.</a> and <a href="https://inspirehep.net/institutions/904611">Beijing, GUCAS</a>)</p>      <p>       e-Print:           <a href="https://arxiv.org/abs/2004.02719">       2004.02719     </a>[nucl-th]</p>   <p>         DOI:         <a href="https://doi.org/10.1103/PhysRevC.102.054911">       10.1103/PhysRevC.102.054911     </a>(publication)       </p>   <p>     Published in:<span>       Phys.Rev.C 102 (2020),       054911</span></p>   <br> </body> </html>
 
-## Publication list on INSPIRE
+## Selected publications with JETSCAPE
+
+### JETSCAPE framework
+
+- <!DOCTYPE html> <html> <body>    <p><b>     <a href="https://inspirehep.net/literature/1725714">       The JETSCAPE framework     </a>   </b></p>        <p>J.H. Putschke (<a href="https://inspirehep.net/institutions/903341">Wayne State U.</a>), K. Kauder (<a href="https://inspirehep.net/institutions/903341">Wayne State U.</a> and <a href="https://inspirehep.net/institutions/902689">Brookhaven</a>), E. Khalaj (<a href="https://inspirehep.net/institutions/903341">Wayne State U.</a>), <a href="https://inspirehep.net/authors/1067316">A. Angerami</a> (<a href="https://inspirehep.net/institutions/902965">LLNL, Livermore</a>), <a href="https://inspirehep.net/authors/1017182">S.A. Bass</a> (<a href="https://inspirehep.net/institutions/902781">Duke U.</a>) et al.</p>      <p>       e-Print:           <a href="https://arxiv.org/abs/1903.07706">       1903.07706     </a>[nucl-th]</p>         <br> </body> </html>
+
+- <!DOCTYPE html> <html> <body>    <p><b>     <a href="https://inspirehep.net/literature/1758788">       The JETSCAPE framework: p+p results     </a>   </b></p>        <p>         <span>JETSCAPE             Collaboration       </span>           <span>&bull;</span>         <a href="https://inspirehep.net/authors/1600925">A. Kumar</a> (<a href="https://inspirehep.net/institutions/903341">Wayne State U.</a>) et al.</p>      <p>       e-Print:           <a href="https://arxiv.org/abs/1910.05481">       1910.05481     </a>[nucl-th]</p>   <p>         DOI:         <a href="https://doi.org/10.1103/PhysRevC.102.054906">       10.1103/PhysRevC.102.054906     </a>       </p>   <p>     Published in:<span>       Phys.Rev.C 102 (2020) 5,       054906</span></p>   <br> </body> </html>
+
+## Other publications
+
+### Grand Unified Theory
+
+- <!DOCTYPE html> <html> <body>    <p><b>     <a href="https://inspirehep.net/literature/1268163">       Proton decay in a supersymmetric SO(10) model with missing partner mechanism     </a>   </b></p>        <p><a href="https://inspirehep.net/authors/1280397">Lipei Du</a> (<a href="https://inspirehep.net/institutions/903603">Peking U.</a> and <a href="https://inspirehep.net/institutions/1210798">Peking U., SKLNPT</a>), Xiaojia Li (<a href="https://inspirehep.net/institutions/903603">Peking U.</a> and <a href="https://inspirehep.net/institutions/1210798">Peking U., SKLNPT</a>), <a href="https://inspirehep.net/authors/982221">Da-Xin Zhang</a> (<a href="https://inspirehep.net/institutions/903603">Peking U.</a> and <a href="https://inspirehep.net/institutions/1210798">Peking U., SKLNPT</a>)</p>      <p>       e-Print:           <a href="https://arxiv.org/abs/1312.1786">       1312.1786     </a>[hep-ph]</p>   <p>         DOI:         <a href="https://doi.org/10.1007/JHEP04(2014)027">       10.1007/JHEP04(2014)027     </a>       </p>   <p>     Published in:<span>       JHEP 04 (2014),       027</span></p>   <br> </body> </html>
+
+- <!DOCTYPE html> <html> <body>    <p><b>     <a href="https://inspirehep.net/literature/1299700">       Connection between proton decay suppression and seesaw mechanism in supersymmetric SO(10) models     </a>   </b></p>        <p><a href="https://inspirehep.net/authors/1280397">Lipei Du</a> (<a href="https://inspirehep.net/institutions/903603">Peking U.</a> and <a href="https://inspirehep.net/institutions/1210798">Peking U., SKLNPT</a>), Xiaojia Li (<a href="https://inspirehep.net/institutions/903603">Peking U.</a> and <a href="https://inspirehep.net/institutions/1210798">Peking U., SKLNPT</a>), <a href="https://inspirehep.net/authors/982221">Da-Xin Zhang</a> (<a href="https://inspirehep.net/institutions/903603">Peking U.</a> and <a href="https://inspirehep.net/institutions/1210798">Peking U., SKLNPT</a>)</p>      <p>       e-Print:           <a href="https://arxiv.org/abs/1406.2081">       1406.2081     </a>[hep-ph]</p>   <p>         DOI:         <a href="https://doi.org/10.1007/JHEP10(2014)036">       10.1007/JHEP10(2014)036     </a>       </p>   <p>     Published in:<span>       JHEP 10 (2014),       036</span></p>   <br> </body> </html>
+
+## Publication list
 
 A list of publications can be found:
 
@@ -34,4 +42,4 @@ A list of publications can be found:
 - on [Google Scholar](https://scholar.google.com/citations?hl=en&user=sqcL4pQAAAAJ&view_op=list_works&sortby=pubdate)
 
 
-## Other
+## 

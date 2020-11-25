@@ -29,7 +29,16 @@ The Jet Energy-loss Tomography with a Statistically and Computationally Advanced
 
 Research Interests
 ======
-* Dynamical initialization of Hybrid Models of heavy-ion collisions
+* Dynamical initialization of hybrid models of heavy-ion collisions
 * Baryon transportation in heavy-ion collisions
 * Hydrodynamic description of Quark-Gluon Plasma with fluctuations
 * Jet-medium interaction
+
+
+
+<img src="/Users/Lipei/Documents/GitHub/lipeidu.github.io/images/Du_talk.JPG" style="zoom:40%;" />
+
+<center>November 19, 2019 @ Peking University</center>
+
+
+
