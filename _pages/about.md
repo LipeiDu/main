@@ -38,7 +38,7 @@ Research Interests
 
 <img src="/images/Du_talk.JPG" style="width:400px;" />
 
-<center>November 19, 2019 @ Peking University</center>
+November 19, 2019 @ Peking University
 
 
 
