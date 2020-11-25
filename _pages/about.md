@@ -36,7 +36,7 @@ Research Interests
 
 
 
-<img src="/Users/Lipei/Documents/GitHub/lipeidu.github.io/images/Du_talk.JPG" style="zoom:40%;" />
+<img src="/images/Du_talk.JPG" style="width:400px;" />
 
 <center>November 19, 2019 @ Peking University</center>
 
