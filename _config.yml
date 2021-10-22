@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Lipei Du"
   avatar           : "profile-2.png"
-  bio              : "Research associate at The Ohio State University"
-  location         : "Columbus, OH"
+  bio              : "Postdoctoral researcher at McGill University"
+  location         : "Montreal, QC, Canada"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  # "http://yourfullgooglescholarurl.com"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "lpdu318"
+  twitter          :
   vine             :
   weibo            :
   xing             :
