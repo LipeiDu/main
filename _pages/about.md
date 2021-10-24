@@ -8,7 +8,23 @@ redirect_from:
   - /about.html
 ---
 
+
+
 **This personal website was published online on August 26, 2018. To be updated.**
+
+# Brief introduction
+
+## Experience
+
+- Sep. 2021 - present, Postdoc, McGill U. (lipei.du at mail.mcgill.ca)
+- Aug. 2015 - Aug. 2021, Ph.D., Ohio State U. (du.458 at osu.edu)
+
+## Research
+
+- [InspireHEP](https://inspirehep.net/authors/1280397?ui-citation-summary=true)
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=sqcL4pQAAAAJ&view_op=list_works)
+
+
 
 I'm a member of two collaborations, [BEST Collaboration](https://www.bnl.gov/physics/best/) and [JETSCAPE Collaboration](http://jetscape.wayne.edu/), working on the physics of relativistic heavy-ion collisions. My research is basically based on the frameworks of these two collaborations. 
 
