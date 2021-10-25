@@ -14,15 +14,19 @@ redirect_from:
 
 # Brief introduction
 
-## Experience
+**Experience**
 
 - Sep. 2021 - present, Postdoc, McGill U. (lipei.du at mail.mcgill.ca)
 - Aug. 2015 - Aug. 2021, Ph.D., Ohio State U. (du.458 at osu.edu)
 
-## Research
+**Research**
 
 - [InspireHEP](https://inspirehep.net/authors/1280397?ui-citation-summary=true)
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=sqcL4pQAAAAJ&view_op=list_works)
+
+<img src="/images/Lipei_Du.png" style="width:400px;" />
+
+December 30, 2017 @ Ohio State U.
 
 
 
